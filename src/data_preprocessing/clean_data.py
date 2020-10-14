@@ -1,4 +1,3 @@
-### JSON
 import pandas as pd
 import csv
 import re
@@ -11,11 +10,8 @@ nltk.download('words')
 
 spell = SpellChecker()
 
-#### Setup the google drive connection if needed
-## import drive
-##drive.mount('/content/gdrive')
-
 file_in = "../dataSets/all_data_multisemester_no_duplicates.csv"
+file_out = "cleaned_dataset.csv"
 data_col = "REVIEW"
 label_col = "TAG"
 df = pd.read_csv(file_in, engine = 'python');
