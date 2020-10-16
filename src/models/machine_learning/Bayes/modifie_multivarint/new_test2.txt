@@ -1,0 +1,1013 @@
+0 the screenshots of the expertiza system are very helpful in understanding the problem and the solution
+0 i think the author have incorporated most of the functionality in the design document
+1 design look good at high level though specific detail about implementation are still missing i would expect that here they also state that they are using google translate detail on what api they will be using would have been helpful
+0 the team ha incorporated all of the functionality required for segregation including the exact report and function to be removed out of reviewmappingcontrollerrb along with the design pattern to be followedstrategy in this case
+1 figure are drawn but are not explained in detail
+0 since the project is aimed at fixing the issue no design pattern need to be used
+0 this wa excellently specific and succinct very nice work
+1 no test plan added they where missing the last time a well you guy should add them telling how you exactly plan to test the change you make even if it a small change it should be mentioned how it wa tested
+0 html file require change i dont think it will affect anything
+0 with proper documentation the problem is explained nicely and understanding of the complex problem is made easier
+1 team have decided to give all detail after final submission a design doc should be available before starting the project i would recommend to provide few detail on project design class involved in the project or application flow etc
+0 yes i believe they have included all of the required functionality
+1 yes the design look simple the use of mock up screen is good and greatly help understand the flow that ha been proposed good work how ever in one of the flow chart the check for is admin doe not showlabel y or n path
+0 no
+1 only the issuesproblem statement is included in the documentation a of now the tea did mention that they will be adding the detailed design in the upcoming submission no design were added in the documentation
+0 yes the design is a very simple and effective representation of the problem statement and they serve a good representation on how they are working and implemented the change to the review section
+0 yes the document incorporates all the functionalityensuring nothing is missed
+1 proposed change are well explanatory but every function change is in signupsheet controller whereas there are many reference present in a few model and other controller a well
+0 yes it includes the test plan with a great detail
+0 a far a the issue are concerned the solution do seem logical
+1 there are no diagram present it would have been great if a screenshot of a test case or flow diagram wa given
+0 the flow diagram is good make understanding easier
+1 the document list all the problem and possible solution which is good however there could be more detail to explain how to implement the solution for example you can tell more about the change will be made for the specific solution instead just listing the file need to be changed also the testing plan should be added
+0 good explanation for all solution
+0 yes they look well written and easy to follow with all the visual aid
+0 the overall quality of the explanation are good but they should include more detail about their design which may not be easy to understand
+0 detailed implementation plan provided including which file they expect to change and what the output should look like
+0 yes the deisgn appears to be totally sound the change proposed are very standardized and follows appropriate industry standard
+0 their visual aid is well designed and high quality it help the reader understand their total design very well
+1 no diagram have been mentioned and they have said that they would implement a diagram in the final design doc and thus that part of the project ha been left in the air no diagram present no conventional flow since no diagram present not only no high level but no diagram are are even abstractly specified
+0 yes they include the test plan
+0 the team explained everything required and not leave anything behind
+1 the test plan doe include a high level of testing scenario the team plan to cover i would suggest the team should add bdd test so they can test the same after the development phase is over
+1 a simple enough explanation ha been provided for how the functionality will be working suggestion i feel that the approach that the team will take to implement the functionality should have been explained more elaborately for example what different possible method will be implemented or how the web service will be used or what kind of data the web service will provide for suggestion detection
+0 there are different diagram being used use case diagram which describes the flow of how different user would navigate to the github metric page mockup of their implementation which detail the presence of a separate tab for github metric integration they also plan to add some graph which i think would be very useful to the instructor
+0 the document is quite comprehensive in it description of the design proposal
+0 very clear very well organized
+1 no uml diagram or screenshots have been included currently
+0 test plan have been shown clearly and test are easy to understand
+0 the design is simple and easy to understand because of ample explanation the author have also worked on the activity uml diagram for this round making it easier for the reader to understand all area have been covered with respect to presenting the design lucidly
+1 the test plan ha covered test case for testing functionality of sorting submission table and review mapping per field they can also include test plan for the edge case of the system like the code should not break when the submission table is empty and show should probably display a flash message saying no entry to be sorted in this way try to add a few negative testing to improve your coverage this will make your code more rigid
+0 completed both the project purpose and design
+0 the uml diagram clearly descibes the design of the solution the screenshots explain change required in the system adequately
+0 the diagram is perfect and clear
+0 easy to comprehend
+1 the problem statement is not clear
+1 the design includes a brief test plan that list three scenario namely the regular step to update course page to hindi checking if edit assignment page ha also been translated and checking if other page are translated some more test case like checking if the change in language is reflected from a student login could have been included the author specify that rspec and capybara is used for testing the new feature
+0 the team ha done a fantastic job in explaining the design in the initial stage they have the current scenario and what they plan to do in the project
+1 the design document seems to be well written and detailed with respect to the objective that need to be achieved the team explains well the purpose and project design they have included the database table which will be modified the team could add a testing plan to make the design document look complete
+0 they team ha done tremendous job in following the test driven approach for the project implementation they have already included the test they are writing for the functionality implementation they have covered the exhaustive scenario for the project in their test their test plan is highly appreciative
+0 a per the requirement document test case are not required
+1 design is informative but too detailed one uml would have been apt
+0 the design follows appropriate principle and pattern a required
+0 the author proposed in a great detail
+1 the team have an image of what they plan to implement the team however havenot used any helpful visualization like uml diagram that would aid in the understanding
+0 the visualization is great all the flow diagram and required screenshots are in place a required
+1 the change to be made to improve the existing system have been adequately explained in the design document the filter by which the data need to be curated have also been stated however it would be better if they started by giving a short description of the problem statement and then going into specific
+0 yes the design appears to be good to me i believe the diagram shown in wiki helped me to understand their understanding
+1 there were no flow or uml diagram
+0 there is one box for both review controller and assignment controller a better picture of how they handle each event differently would have been helpful
+1 more or le an a for effort but i dont know if the uml is fine with so little in it because we dont care about what those class do or if we should care and there should be more about those class and their state and behavior
+1 the implementation plan is not there
+1 the team have written a test plan but i feel more test case could have been written to test the edge case also the team could have explained their test case in more detail
+0 according to the team the specification of the project doe not require u to use automated test but they plan to test the modified ruby code or the new feature using the rspec testing framework overall the test plan sound good
+0 very good design they use lofi sketch to demonstrate their design
+0 the team ha communicated their design clearly via usecase diagram and a class diagram with a description of various database table involved
+0 they not only use use case diagram but also mockup screenshot to help the reader understand their design
+0 i think the writing could be done better with more explanation on why the solution mentioned in the last paragraph are taken and what other approach were considered or an explanation of why no alternative exists with regard to design explained in detail in a previous comment
+0 yes it doe
+1 the change proposed are quite understandable however i would suggest them to clearly provide a clear path how they are going to reach their result the initial planning is quite appreciable though
+1 yes the design is the simplest i could think about but it doesnt include how to change the file i think it can still be a simple and succinct if the modification of file can be included on the other hand the expected result seems to be too long there too many screenshots
+0 the explanation is easy to follow i am able to get a complete idea of what change the team intend to make
+0 test plan seems thorough and well thought out
+0 proper use of uml to explain the use case and flow chart to explain the workflow ha been done the plan is complete
+1 no it doesnt suggestion team should add a test plan which includes test for testing the required change
+0 mainly need html file to be changed and they have mentioned them which look good
+0 the design is simple and quite comprehensive covering lot of method of searching
+1 no
+0 the author have clearly explained the change to be made to the system they also have given the file to be modifiedadded for each change
+1 proposed change need more explanation at the file and system specifically what file need to be changed and how
+0 yes the author have adequately explained all the change that need to be made each issue ha a separate list of change to be made and which file need to be edited
+0 the design is sound with appropriate principle and pattern
+0 system is well defined
+0 the design is simple and well modularized each method is implementing only one task a it should
+0 their diagram are supreme the diagram of how they plan to implement the strategy pattern significantly helped to cement my comprehension of what they plan to do
+0 the design appears very simple
+0 yes change to be made are explained clearly document is very clear includes necessary diagram mockups and everything possible to make anyone understand what the issue are and what team is planning to do to resolve them everything is included in a proper order like for each issue there is a separate flowchart and mockup no suggestion required
+0 yup because it only test the ability to change the language
+0 the team ha added good number of mock uis and uml diagram and clearly explains the code follow all of them are selfexplanatory and need no improvement
+1 though an approach ha been mentioned of the proposed change but they do not have a test plan
+1 a mentioned before the document is good for most of the part except that key aspect of the implementation are missing which leaf me wondering about how exactly they are going to do this i would like more detail on this so called api
+0 design is good
+1 the test plan is not included in the design document while the instance of testing are certainly mentioned eg specific functionality could be tested by writing a custom html file and then running it the similar way and finally well test our code by enabling the blob api the author do not provide an extensive discussion of specifically what functionality is going to be tested
+0 their diagram are supreme the diagram of how they plan to implement the strategy pattern significantly helped to cement my comprehension of what they plan to do
+1 yes a per the solution provided it doe seem that the design incorporates the required functionality it considers sorting on all the specified field suggestion since you have mentioned the use of jquery tablesorte you may also add explanation a to what is tablesorter and try explaining atleast for one field eg name a to how doe it work to sort the entry
+0 the design appears to be sound also follows proper design principle eg for making change to nomination and review question inheritance is used inheriting method from question parent class
+1 the project design and the testing plan are well laid out solution part doe not have any description in it say it will be given in the detailed design could have given some idea on the solution with some flow diagram
+1 the author have provided a high level solution to the problem statement they have mentioned that they are going to use an api for suggestion detection but have not yet identified one suggestion you can survey on the existing apis and discus about at least two of them in depth and specify which one you feel is more compatible with expertiza this will improve your writeup significantly
+0 looking at the doc it seems like the design is precise the description of the change are provided in detail ensuring the satisfaction of the reader
+1 i feel the test plan should be more descriptive while also covering a few edge case
+1 the design document doe not include a test plan a testing requirement is very minimal since most change are in view
+0 yes adequate amount of detail present
+0 yes and at time much more than necessary
+0 no everything is properly described
+0 yes the doc ha use case diagram and screen shot this is very good and eas understanding
+0 the requirement were distilled down to the fewest simple term possible without overgeneralization it felt like they just gave me the tldr statement without any fluffy word to waste my time and also feel like they have a strong grasp over what they are expected to accomplish
+0 the author have done a pretty good job with explaining the proposed design they have used wire frame to show u exactly where the change are to be made adding a flow chart would make thing much clearer
+1 the team ha very well explained the change they are making in the project to achieve the functionality however they have not included any design explanation explicitly they have not described the approach they have come with it might be helpful if they could add the design approach a well in the wiki link so that it easier to understand the code change by having a glance at the design pattern
+1 the proposed refactoring change seem to follow good ruby principle and also look dry they haven t mentioned any pattern a such but overall the design document look neat and very well written
+0 overall the design proposed seems good
+0 yes
+1 there are no solution proposed just the issue are listed and explained a possible screenshot or a flow diagram would have been better to catch the proposed solution
+0 the design appears to be sound following all the appropriate principle and pattern i liked the overall flow of the document
+0 adding a language column to the course table make sense and so doe leveraging thirdparty apis to handle the translation
+0 the design doe incorporate all of the functionality one suggestion that i can give in the context of the design is that the documentation could have covered the list of file that they plan to work on and the current version of that code they could have shown a uml diagram of the flow of activity for a lucid understandability
+0 there are different diagram being used use case diagram which describes the flow of how different user would navigate to the github metric page mockup of their implementation which detail the presence of a separate tab for github metric integration they also plan to add some graph which i think would be very useful to the instructor
+0 great work in high level test plan it is very easy to understand and it is one of the strong point of this documentnt
+0 yes
+1 i dont think the author plan to add method to a wrong class they seem to be working on the right class namely review and it associated view page reviewhtmlerb that exactly pertains to their project the response time might potentially increase with this new feature but fortunately the team ha proposed to work on optimizing the suggestion algorithm so that it doe not take forever to execute the team ha done a good job on the design documentation
+0 they have used apt visual aid like uml diagram and screen shot
+0 the design follows the apt principle and pattern in that the refactored version is planned to be implemented using the strategy pattern by working on the eight different report category
+0 yes all change are incorporated and explained well
+1 the diagram follow the convention and are detailed and self explanatory suggestion test plan is not so clear especially the second testcase where it is stated that the date will be changed accordingly what date will be changed and how should be mentioned a similar flowchart will make it very clear a to what you plan to test
+0 yes the wiki appears to incorporate all of the required functionality we want student to know if theyre giving helpful feedback and we want the nlp algorithm to be local to the expertiza project to decrease it reaction time they have at least shown that they are going to add button
+1 the doc is complete except the test plan a test plan would make it complete
+0 yes the design doc incorporates all of the required functionality
+1 the author have done a good job by identifying the subclass they plan to add it would be good to have an overview of the class definition it is quite clear from the explanation that they plan to have different task depending upon the type of report to be removed
+0 i do not think that the design will increase the response time of the system suggestion i did not find any detail regarding about any method that will be used to implement the functionality that would have been useful the test plan doe mention viewsuggestionmetricsforreviewsegment though if this is the method name then it doe not follow snake casing
+1 the doc is well written with all the necessary explanation more detailed test plan would suffice the need of the document
+1 the issue have been identified and documented clearly however a little more of explanation is required for the solution proposed for issue they seem to me at a very high level
+0 the design appears to be simple to the best of my knowledge not a lot of file needed to be changed signifying that they are just targeting specific file in order to make minimum number of change possible not making it too complex
+1 the explaiantions provided by the author are at a very high level view and need further drilling down into the implementation
+0 they will be changing mostly html and erb code to create a visual interface that delivers information to instructor more effectively
+0 yes the design document contains all part of the functionality ensuring that nothing is missed out
+1 complex design
+0 looking at the design there seems to be high use of cohesion and low coupling it good that all the change are restricted to the routesrb and configlocales file so that the resulting change wont be messy and ruin the rest of the system also this help in refactoring if needed in the future a there will be limited number of file to be changed
+0 i understand what the team is supposed to do to the expertiza system
+0 yes
+0 the test plan section properly describes the flow that need to be followed by each actor involved in the process this could be enhanced either by providing a flow diagram or adding certain test case snippet for the scenario
+0 there were ample of visual aid to explain and walk through the proposed solution i liked it
+1 yes the design is quite simple
+0 the design appears to followed appropriate principle and pattern
+1 uml diagram and the solution proposed by the author to solve the issue is missing
+1 the design document is comprehensive and detailed however there are several part where the team is not yet sure of what exactly they want to the document miss out on mention which modelcontroller they will be making change to
+0 the author ha excellently explained about the change that they would be making by providing the design diagram and the screenshot of the the change that they have incorporated also they have mentioned about their choice of tool which is google chart and why do they prefer so overall a good explanation
+1 more effort could have been expended on the design because in some place they are not sure of the direction and just state that they might have to look into the code and discus with the professor
+1 the document show how they will be using the api however since it is initial they have not clearly mentioned the functionality required
+0 yes they look well written and easy to follow with all the visual aid
+1 the team ha a well composed design document they have structured there design document into well written sub part like design purpose and visualization and file to be changed they could have written there testing plan in a more elaborate manner by mentioning what kind of testing frame work will be used and what functionality will be tested the could have also added some use case
+1 the team provided sufficient information on the project purpose and design the test plan is adequate
+1 the writeup doe not talk about the functionality however they include what is missing and what they will include
+0 the design is extremely simple and easy to understand good work guy
+0 implementation look just like what the requirement asked for no removing of english code
+1 i liked that instead of stating all the problem at once and then stating their solution the design doc tackle in one at a time still there wsa no visual aid provided for the project
+0 add a button to these question to analyze them for their helpfulness seems clear to me
+0 yes design show a good amount of work to be done team is not using any design pattern
+0 the design appears to be sound
+1 the design is simple they are adding an external jquery library to achieve the intended sorting functionality and will be adding custom j to achieve further functionality a indicated earlier not clear a to this custom j will be included in multiple page
+1 cant say a code is not visible
+1 team have explained the problemsteps to reproduce are really very clear solution part could have been explained better overall it a good work
+0 the design is perfectly well depicted in the form of the logical flow diagram they have been thorough in pointing out the application flow in the proposed design section so a to elucidate the problem statement
+1 no diagram have been mentioned and they have said that they would implement a diagram in the final design doc and thus that part of the project ha been left in the air no diagram present no conventional flow since no diagram present not only no high level but no diagram are are even abstractly specified
+1 the team hasnt included any test plan in the design document i feel testing is really important in this project a there are many ifs in the usecase
+1 the project purpose is explained with example but no design or plan to implement is given again under the test plan section a generic method is given but is not specific to the project
+0 yes the design document doe incorporate all the functionality there are proposed test plan so expecting more screenshots with test case in it
+0 yes they explained a lot for the change great job
+0 the document includes the problem statement and proposed solution of all the issue all the proposed solution have test plan a well
+0 yes i believe they have included all of the required functionality
+1 change are explained but are not very descriptive the document is not much changed since the last submission
+0 no test are required for the project a stated
+1 the team ha provided the application flow diagram which help to understand the working of the project it would be helpful to add design detail and the diagram for same so that others can understand the implementation a well
+0 yes the author provide a uml and a screenshot to explain the class relationship and the change they will make which are helpful
+1 the author do not mention the model they will be making addition to i would suggest the team to consider a new controller since adding new code to an existing controller may not be oo design
+0 the design appears sound
+1 the author do not talk much about the technical aspect of how they are going to implement their work the new design they proposed however seem to go on the right track however not much research is done till now
+1 the author have done a good job by identifying the subclass they plan to add it would be good to have an overview of the class definition it is quite clear from the explanation that they plan to have different task depending upon the type of report to be removed
+0 no problem i could observe
+0 the design look simplified but there might be some edge case that need handling such a what if a student make hisher review public this review is selected by the power user to create a sample and then the student wish to make the review private
+1 the document seems to be complete except the test plan it would be better to include a test plan in the document
+1 there are enough aid such a uml diagram and screen shot the author explicitly mention that there are no db change so no need of an er diagram although i would have liked some class level detail to be mentioned in the document that would help to dig more about the design change
+1 yes all the requirement mentioned in the problem statement are considered also the corresponding solution are explained a flow diagram or screenshots explaining the solution jsut like the problem statement is explained would have been helpful
+0 it included a proper test plan there wa no test plan included in the previous version of the design document but author have added it in the second round which made the design document complete
+0 yes the diagram are clear to show how the system work they have even gone a step ahead to show how they have thought of resolving the problem at each and every step of the expertiza review section and the message popups they receive for the same
+1 the team have done a good job explaining their problem statement and implementation but the documentation doe not include the testing plan the team should write about the test they plan to implement
+0 yes the change are well explained
+0 the design document appears really easy to follow a person who is new to the project can get the summary of what is happening just by reading and going through the design document
+0 with er diagram and database detail the design look good
+0 no potential smell or problem found
+0 the document explains well how the team is planning to approach the refactoring
+1 no test plan added they where missing the last time a well you guy should add them telling how you exactly plan to test the change you make even if it a small change it should be mentioned how it wa tested
+0 the change are clearly stated and represented
+0 the change have been explained well enough to minimize the complexity the implementation seems extremely clear
+0 the uml and flow chart used by the team are good but can be made more clear and appealing
+1 the introduction paragraph contains bullet that are identical to e which is surprising the flowchart doe not cover no or negative case and is thus incomplete what is logged in the db and how exactly is start and end time is very ambiguous apart from a mention of merging the data of the detail page on the current report page in the introduction i can not see any further discussion of this particular objective for autosave you could think of using the onunload event of javascript like onload event also settimeout doesnt seem to be an efficient idea since that would make too many number of call from the page i guess you would be sending an ajax request which is asynchronous a next call might be made before a previous call response is handled when you say for each time the reviewer start a review it will check whether a previous record for this review already exists in the database if it doe exist then it will update the
+1 the author ha not suggested any change a of now
+1 yes they had test plan but only simple test plan they should add some more corner case
+0 the team ha not used any class diagram
+1 the author have described solution of the problem however i would suggest them to include more about how these change will be done and where are these change going to occur what file will be affected etc
+0 yes all the requirement are stated and an implementation plan is given
+0 the wireframes themselves make the project selfexplanatory that being said enough explanation about how the team will tackle the problem statement ha been given thing like what api will be used to achieve the objective ha been mentioned no suggestion
+1 only problem statement is explained and nothing about how the team will design the solution please add design and uml diagram
+1 the doc contains almost everything in term of design except for the test plan you might want to add a test plan right away to go for a testdriven development
+0 the design appears to be sound it is really well structured it is easy to follow it clearly state the change to be made and the file affected by these change
+0 all the required part is in the document
+1 no not mention about that
+1 no use of any visual aid
+1 a for the design proposed by the author it prof to be a redundant check since there is a minimal amount of design aspect in their doc they havent even defined an application flow nothing about adding a method to any class ha been suggested a per them most important thing are going to be given in the final doc design
+0 the uml diagram is great which is clear and easy to understand
+1 i suggest the testing plan be improved in place of giving step on how a reviewer should test the project the team should instead list how they wish to write test for the functionality added the rspec could be something like expectpageto havecontentsorted
+0 the team ha analysed the existing design principle used in the project and ha appropriately defined the design for the new change which will be made the design look good and easy to implement great work done
+0 the design appears to be neat
+0 design look well thought out
+0 the design document wa wellwritten initially too and still is
+1 the design seems sound the team plan to add all translation of the static variable in a separate folder i think that this could potentially increase the response time of the system i would like to see this design in action before making a judgement
+1 le explanation on problem statement could have elaborated on the problem scenario and why change need to be made
+1 the explanation seem very clear although splitting the er diagram into or more section would have made the design simple to understand in my opinion
+0 implemented major of them
+1 no plan provided can not comment
+1 the writeup is well written but is missing a few thing the original problem description how will the change being proposed will be implemented etc
+0 yes the deisgn appears to be totally sound the change proposed are very standardized and follows appropriate industry standard
+0 yes the author have adequately explained what ha to be done the proposed changesetc
+0 there is a detail explanation on how the function testing will be carried out under the teating plan section of the wiki doc
+1 yes the test plan is included but the test plan appears to be very shallow a it give the which functionality must be test but doesnt mention it inform of test like what should be the action taken when a certain condition arises it can be more clearly stated by mentioning the test case in form of context and it statement
+0 have used visualization diagram appropriately
+1 the author have worked well since the last review and incorporated some of the suggestion they have now finalized the input and output format however i still am unsure about the algorithm implementation they have proposed they have kept it a a black box which make the design quite inadequate it becomes difficult to review if their method class are in the right direction or need any modification they should have at least given a high level overview of the algorithm also i have observed that the additional comment box also contains valuable suggestion many of the time please mention if you have considered the additional comment box in your analyze functionality
+0 the design is sound and easy to understand the design proposed also sound logical ie to sort team name alphabetically and grade numerically to sort by both ascending and descending order
+1 yes the change are well explained there are a lot of picture snipped screen shot to help explain the change to be made there one issue that the screenshots are not very clear since it big it would look better of the screenshots can be clearer
+1 the project purpose is stated in detail in the introduction part starting from the background and problem statement to improve the quality of report view the purpose is stated in five different small goal separately make change in view submission view score view review report author feedback report and teammate review report five different part in term of project purpose it comprehensive and detailed a for project design it is carefully outlined in the solution and modification of file part i think the project design might need a bit more description in term of what step need to do first and what step need to be done next it seems that all the change are for the ui but is there any ui that can be served a a pattern for the usage of others or is there any implementation of one ui dependent on the implementation of another here i think there need to be more detailed step the testing plan includes detailed step in term of how to test the impl
+1 have covered almost all the issue it would have been better if an implementation plan wa provided
+0 this team used great diagram that add to their documentation clarity significantly
+0 the provided diagram are visualization of the workflow of different actor in the context of given five issue they further clarify the change that are to be made in this project
+0 the author add more diagram to help to explain the change they are going to make the relevant table are really helpful
+1 yes the explanation provided for change to be made are clearly mentioned the author are very clear what and where to make change use of flowchart make reviewer to understand their approach more quickly and easily suggestion no test plan is included in the project
+1 the design document contains some extra information such a a whole paragraph about expertiza which i think can be skipped and more importance should be put on the design part
+1 the team ha a well composed design document they have structured there design document into well written sub part like design purpose and visualization and file to be changed they could have written there testing plan in a more elaborate manner by mentioning what kind of testing frame work will be used and what functionality will be tested the could have also added some use case
+0 yes the application flow diagram tell of how the functionality will be accessed both by user and student and the use case diagram explains the interaction of the instructor and the student for the particular functionality
+0 the author have described what all change they plan to do and where they plan to do it compared to the previous version of the design document they have now included what tool and framework they plan to work on the design document look complete and understandable now
+0 even thought there arent any uml diagram the team ha added a wire frame design of the proposed page and it ha helped in visualizing the solution
+0 the design seems to be quite simple
+0 one of the best wikis i have reviewed with good diagram and explanation the flow diagram are really good kudos
+0 design is simple and easy to understand
+1 the team have done a good job explaining their project but i feel the team should have detailed their explanation of the implementation more also the test case should have been included in more detail
+0 great use of mock ups and uml diagram it make understanding the issue easier look like a great amount of thought ha gone into making it
+0 the explanation is good and more information on which file would be changed would be more helpful
+0 they have included flowchart for each proposed solution the flowchart can clearly explain the work flow
+0 the test plan is complete the team plan to test the two possible case when the review is blank response should be no review in text box when review is present response is the result of suggestion metric analysis the team is right in testing just these two case because they should not test if the api itself is returning a correct response a that would be against testing rule
+1 they only present a flow chart it will be better if there is a uml diagram
+0 the new design seems to take into account decreasing response time
+1 no the proposed ui change are only mentioned and the diagram in the wiki are of the current system use drawio for mockups and drawing
+0 yes functional test with scenario provided
+0 the actual project work might not have been started yet so the code modification have not been mentioned but the file to be modified seem appropriate
+1 no detail of the proposed design
+0 for now the design proposed look perfect
+0 yes the doc cover every functionality and detailed description of the approach to deal with the issue
+1 the team ha included the test plan design but the documentation is missing on the scenario that will be tested after the implementation how the team will be testing it what are the automated test that will be created and also the manual test plan how an end user can test the endto end requirement should also be a part of the design
+1 the uml diagram is good but the diagram in the test plan is not very helpful id suggest either another umlish diagram or just a bulleted list of the feature from the report controller
+1 could not find any explanation regarding the change proposed
+0 the test given test there change which is enough
+1 no not really the design is doe not implement the test plan but rather go on to show how the pre existing expertiza algorithm work so it would help if they showed the same
+0 the team ha done a pretty good job of explaining the change they are intending to make in great detail they have added more detail from the earlier version
+0 yes have included the flow of the process in the second round of interview
+1 there is an assign grade link for everyone but only perform review for certain team
+0 yes the solution proposed is simple by using the jquery tablesorter gem
+1 uml diagram and the solution proposed by the author to solve the issue is missing
+0 the design seems simple and clear
+0 the design appears to be sound following the appropriate principle and pattern
+1 actually they talked a little about previous work from e project and a lot about what they gon na do but it better to have some contrast
+0 author have proposed solution in detail and is understandable
+1 the design is perfectly well depicted in the form of the use case diagram in which the user are student and instructor and the data base is where the action are stored in the database and the retrieved from the same for the case of review information also they have been thorough in pointing out the application flow in the application flow section so a to elucidate the problem statement
+0 great flowchart it help to see all the possible scenario in a compact manner
+0 great work by the team on uml diagram
+0 yes the author are using already existing gem for the implementation i would have liked to see a section on caching if any rest the solution proposed look simple and straightforward and look that it will easily integrate into the current system
+0 all function required are stated in the design document which include search for user assignment questionnaire and review
+1 the document is wellwritten they have described the plan of action along with the different route they would need to explore in order to complete the task at hand they also gem that can be used and api to query if gem were not allowed they have a section called the testing plan however that doesnt look like a traditional testing plan it just show the navigation path that different user would take
+0 no diagram are required for this project
+0 the author have explained the change made to the system the design flow greatly help to understand the flow of the system
+0 yes the design is simple and straightforward in personal opinion it could not have been simpler than this great work on design
+1 functionality feature test ha been included but plan for rspec test is yet to be included
+1 there were no such solution listed on the basis of which i could suggest some better solution a couple of test case or issue resolution would have been handful for further suggestion
+0 good that you have used screenshots to explain the approach include use case and activityflow diagram also
+1 although screenshots are available on the project page it would have been easier to visualize if the page mockups were added in the design document too
+0 yes the database design and flowchart give a clear picture what system will do after the required change suggestion add before after change screen mockups to your document
+0 the provided test are in depth and will test the change made thoroughly
+1 so far whatever is discussed seems to go in the right directionhowever not much research is done so far i would suggest them to quickly start researching about how they are going to work and how will the technology they plan to use work
+1 no diagram have been mentioned and they have said that they would implement a diagram in the final design doc and thus that part of the project ha been left in the air no diagram present no conventional flow since no diagram present not only no high level but no diagram are are even abstractly specified
+0 test plan are present and explained in detail the test are really in depth for each issue the team will be fixing
+0 yes the solution proposed is simple by using the jquery tablesorter gem
+1 the author explain the project pretty well they also provide a diagram to show the relationship between different set however the solution can be more detailed and maybe cover some edge case
+0 for now design plan look good enough
+1 the purpose of the project is very clear and well outlined the project design seems to be barely mentioned there have been mention of the word api but not which one so reading the doc i have no clue of how they are going to implement this however i do know the file that they are going to modify the test plan ha been written in the form of cucumber user story i am not entirely sure if it is the correct approach
+0 yes the change are well explained
+0 yeah their proposed design includes workflow initial step and subsequent step it wa easy to follow their design their solution appears to be sound
+0 the author have prepared the design document quite well
+1 document explains the problem well one thing i would like to explained more is how strategy pattern being used will help reduce the code than the amount of code currently present but i guess that will be explained better once the team get to implementing stuff and know a bit more about the design
+0 the team ha added sufficient diagram for the reader
+0 from the reason provided for choosing the google chart tool and it effectiveness it can be integrated into the system functionality easily making the design simpler to be executed
+0 change suggested look good
+0 yes the requirement are simple and the design plan clearly explains all the point
+0 yes the required functionality is covered with detail in the document
+0 yes the design is robust and simple to understand each class and view only handle a specific functionality ie it is modularised
+0 their introduction and problem definition are clearly enough to explained the change
+1 the purpose of the project is very clear and well outlined the project design seems to be barely mentioned there have been mention of the word api but not which one so reading the doc i have no clue of how they are going to implement this however i do know the file that they are going to modify the test plan ha been written in the form of cucumber user story i am not entirely sure if it is the correct approach
+0 great use of uml diagram flowchart and mockups by the team to clearly explain the flow of their work it is easy to understand the flow and how the end product will look like
+0 design doc is not complex and every section of the menu explains the itself with simplest term possible
+0 they have explained every change they want to make to fix the issue the diagram in turn help a lot to understand the flow of the system
+0 the visualization used by the team are comprehensive and well made
+0 visual aid are present which perfectly help u explain the plan author have proposed
+0 design is simple and easy to understand
+1 the document mention the detailed test case that need to be done but not how it will be done
+0 this is a mozilla project and i am not sure what are the testing requirement and depth to be covered a it is not mentioned in the document but the step mentioned do suggest that basic testing id done
+1 the team have done a good job explaining their project but i feel the team should have detailed their explanation of the implementation more also the test case should have been included in more detail
+0 i think more test can be added
+1 here the team ha only included screenshot relating to how the ui of the system should look like which give a idea of it appearance however they havent given any uml diagram to represent the flow of their work for example a flow chart relating to how their functionality would coordinate
+0 have clearly mentioned when will github api be hit to retrive the data and which gem will be used
+0 the doc is very well written it like a blueprint to the project really appreciate the team effort
+1 there arent many visual aid used it may be a good idea to do some mockups for this project
+0 yes the design is presented in a much simpler form which give a very clear picture of how the change are going to be implemented and which functionality would be witnessing the change also a they have provide the screenshots it enhances the understanding about the project more
+1 the design doc explains the project in detail i would suggest that the description could be modified by removing redundancy to make the doc more succinct also what mvc file are being touched could have been mentioned
+0 explains the different approach with the help of use case diagram
+1 the author have given sufficiently good explanation for the change to be made to the system they have explained which file they will change a well a the flow of the projectone thing that they have failed to mention is what api are they planning to use i would like to know that a that would be a key piece of information for this document completeness
+0 screen mock ups are good
+0 the document is well structured and provides all required information
+1 the design diagram is good and it would also be helpful to have a few screenshots of the current expertiza view
+1 it would be nice to see a mockup of the offscreen canvas
+0 yes the design include all the required functionality a their design plan the problem statement specifies task one is related to the admin panel and two are related to the instructor panel in their plan they have specified their approach and which all file need modification
+0 the design seems pretty accurate the schema of the database table record all the necessary detail with reasonable granularity
+1 the change proposed by the team have been specified in detail providing general requirement about each goal but it doe not make any specific of the code that could help to infer the proposal with the functionality
+1 only the issuesproblem statement is included in the documentation a of now the tea did mention that they will be adding the detailed design in the upcoming submission no use of visual aid diagram a of now
+0 the design look clear and complete and is using a strategy pattern for implementation
+0 the wiki is detailed enough that it mention all the functinoalities required in the project the team ha made sure to not miss out on any functionality and they even took out time to list the column name in each report they would add the sort feature to good work guy
+1 design is informative but too detailed one uml would have been apt
+0 the given flowchart describes the flow of the project and how the implemented system will work
+1 the team ha not mentioned about how they are planning to do the change
+0 yes
+0 the test plan is comprehensive
+0 this part ha been significantly improved from the previous submission the diagram make it very easy for an outsider to understand the architecture the underlying problem and the proposed solution
+0 the author have very well explained the problem statement and the change to be made to the system including flowchart the file to be modifiedadded and useful link
+1 the team ha included the test plan design but the documentation is missing on the scenario that will be tested after the implementation how the team will be testing it what are the automated test that will be created and also the manual test plan how an end user can test the endto end requirement should also be a part of the design
+0 yes the design is simple and detailed thus explaining the required change that would be implemented
+1 the author have lucidly explained the change that are to be made to the system they show the current state of the system and the expected state which includes a new button to analyze the review content in the segmented text box the author have specified file that they plan to modify namely the view file responsehtmlerb and a partial selfreviewhtmlerb the team clearly show the format of the response popup with suggestion metric that capture sentiment score sentiment tone whether suggestion are present or not chance of suggestion volume of text and the volume of text without stop word they also propose to improve the response time of extracting the output from the apione suggestion is that the team could have touched upon the working of the suggestion detection algorithm though it is not part of their current implementation they do mention that it is a black box and have included a link to the deployed nlp project for suggestion algorithm where user can test the suggestion metric
+1 actually they may include too much info which could be replaced by some link
+0 the team ha not mentioned about how they are planning to do the change
+1 the test plan seems to be fine it basically outline all the functionality that the team will test the different case the team will test is also outlined though not many i guess there will be more test case to be added once the project is on the roll
+1 these change seem to be appropriate for the objective they have only a small set of file are being changed and the functionality is isolated well my only feedback here is that there is likely a place to create helper or utility for time tracking
+0 yes their explanation are adequately explained the change
+1 havent included the test plan
+1 no not really the design is doe not implement the test plan but rather go on to show how the pre existing expertiza algorithm work so it would help if they showed the same
+1 you can add some more explaination of what exactly youll do in issue like issue issue related to instructor assignment participation i felt information is missing here
+1 only the issuesproblem statement is included in the documentation a of now the tea did mention that they will be adding the detailed design in the upcoming submission
+0 the design approach seems justified and inline with the functionality required to be implemented they have mentioned step wise detail for all the change they are going to take done a good job no rework required
+1 the bar chart have been added to the design report the visualization have been added to view also and the screen shot have been added too the only thing that i would like to add is that the bar chart could have been more descriptive a in they could have added detail for x label and y label and also put legend this will aid the user in quickly understanding what the chart is conveying
+0 design document ha all the necessary information like project design test plan the team ha gone through their topic deeply and can be seen by their illustration of their implementation also they have included code snippet which show thoroughness of their approach
+1 the document doe include a flowchart which show the flow of change however an uml diagram would have made the document more understandable and easy to follow
+1 there are no diagram present in the document while the diagram for apis and class interaction may have been helpful they are not necessary for this project a the author provide a detailed explanation of the relevant functionality
+0 the solution seems right
+0 yes the author ha explained the scope of the project very clearly and ha specified the change to be made in the project to accomplish the goal
+0 get the github pull metric and show em to a person that person being an instructor
+1 the complexity is again a big unknown to me a they have kept the algorithm a a black box it is unclear where the algorithm change are to be implemented if it is in a controller and if yes in which controller i suggest the author to provide internal detail of the algorithm in order to understand their proposed solution better a of now i am clear about their input and output format however i would like to know which function do they interface with
+0 the test plan is good and describes all aspect of the rspec test needed
+1 all part are presented but need little fore explanation in test plan part
+1 the author seem to have understood the project and know what change need to be made to what file the change seem to be targeted to the correct class and preliminary investigation reveals that it doe seem to follow dry principle they might want to make their design diagram more simplified which will not only help in making it look readable and also help in implementing the code effectively this will help in reducing convoluted code
+0 yes the design in it current form seems straight forward
+0 team have shared the link for the tablesorter which explains the functionality
+0 yes the team added visual aid like uml diagram screen shot code snippet to clearly describe the change to be made to the system well done
+0 test plan walk through necessary functionality
+0 yes
+0 yes the design appears to be a simple a possible the team ha mentioned what need to be done and how they plan to implement it hence it is easy to understand
+1 the test plan is present it consists of a set of functional test described for each of the five view i would suggest elaborating on the technical side of test for example specifying which spec file will be modified or whether or not the project will utilize rspec moreover it would be better if the team provided a rationale for why it is sufficient to use only functional test
+0 test plan seems thorough and well thought out
+0 an appropriate test plan is included in this design doc
+0 yes the design appears to be sound there could be some rearrangement in the mockup layout eg text box for email address and add button could have the same horizontal alignment for a better user interface
+0 good ui mockups
+0 the design ha not been stated explicitly so it difficult to comment only with the flow and uml diagram whether it is appropriate and the best way to address the issue
+0 the flow chart is good and aid in understanding better
+1 application flow is present and done well uml diagram need to be added
+0 yes they have explained it very well
+0 it includes all the section
+1 nice mockup for another language it is clean the menu bar for translated language screen is still in english i assume it is just a careless mistake when make the mockup
+0 yes the test coverage seems good
+1 testing plan is not included however somewhat of an idea can be obtained from the step to reproduce
+1 the design appears to be simple however any code modification is not mentioned yet a work project might not have started so far it would be nice if a list of file to be modified were added
+1 the team ha very well explained the change they are making in the project to achieve the functionality however they have not included any design explanation explicitly they have not described the approach they have come with it might be helpful if they could add the design approach a well in the wiki link so that it easier to understand the code change by having a glance at the design pattern
+1 the visuals used are excellent but it would have been nice to not overwhelm the reader
+0 yes pretty simple great job
+0 yes the design appears to be very sound and follows all the principle that i know i loved the format of the documentation a well
+1 the page feel more like a project report instead of wiki page they should not tell people to go through the following page instead they should just tell the page is previous work
+1 the design is simple the author have discussed the change like allowing instructor to change language of a course and adding multilanguage support in the design one suggestion is that the author could have described the difference between static and dynamic string used in this context especially since they specify that only static string will be translated but dynamic string will remain in english
+1 yes change to be made are explained clearly document is very clear includes necessary diagram mockups and everything possible to make anyone understand what the issue are and what team is planning to do to resolve them everything is included in a proper order like for each issue there is a separate flowchart and mockup no suggestion required
+0 some mock ui where this is going to be implemented would be helpful
+0 yes it includes test plan it is very well written and will test the functionality
+0 the project doe not necessarily need diagramatic explanation but uml diagram have been used which show implementation plan fairly well
+0 the team ha done a wonderful job in including uml diagram and visual aid
+0 look good only view file are involving the change
+0 yes their design appears to be sound
+0 the team ha represented the workflow through the uml diagram which is very helpful to understand the flow of the requirement with multiple actor involved in the system however it would have been more helpful if they could add the design flow diagram to explain the database design change they are suggesting to be done the new table they are suggesting to make and the field they would map to could be shown through a entity relationship diagram which will make it easy for the end user to understand the attribute and the relationship of different entity involved due to the functionality change
+0 the design wa not unnecessarily complex it wa a easy a it could be
+0 good job on ui and test case kindly add uml diagram
+1 it would have been good to show the comparison of the score calculated with the old model and the new model this will check if the proposed design is acceptable or just fall in the smell category
+0 the flowchart make it very clear
+0 the team ha analysed the existing design principle used in the project and ha appropriately defined the design for the new change which will be made the design look good and easy to implement
+1 there are some test plan in place and others will be done after the bug are generated suggestion it would have been great to have screenshots of the test plan
+1 a suggestion would be to add some visualization about what the offscreencanvas doe would be helpful
+0 the design seems appropriate to the issue at hand
+0 the design document is extremely clear they have done a very good job in the design document
+0 yes it doe appear to be following appropriate principle
+0 the issue have been identified and documented clearly however a little more of explanation is required for the solution proposed for issue they seem to me at a very high level
+0 did not see much info on the file or class the change proposed so it hard to comment here
+0 yes design appears to be very simple
+0 it includes all the section
+0 the document is well explained thus it reduces complexity and make itself appear quite easy for the user to understand however more diagram and flowchart would have helped even more
+1 the high level view of the solution appears to be reasonable the problem with this design is that there is no discussion present about any principle or pattern that are going to be utilized a part of the solution i would suggest using certain keywords to make the decision more clear to the reader for example the author talk about reusing the code of htmlcanvascontextrenderingd and webglrenderingcontext it would be helpful if the concrete mechanism were specified for example pattern like decorator or adapter would be relevant for this case
+0 test are given at a very high level and need to be described properly
+1 the team hasnt put any diagram to explain their design theyve just explained it theoretically
+0 the good thing about this wiki is that the proposed solution section is brilliantly explained the team have clearly mentioned all filename where they propose to make change drawn diagram to illustrate the flow control and added snippet of code where necessary brilliant
+0 the design and fix are very well explained with codesnips that include the incorporated adjustment nice work
+0 the design appears to be sound considering the expected outcome of the project and it doesnt seem that it will create any dependency mismatch a well
+0 document is very well written and contains all the detail like problem statement solution file to be modified testing plan
+1 test plan is very shallow only the heading are mentioned a proper description of what is the test for and what to expect from each test will be helpful in understanding
+0 the author have described what all change they plan to do and where they plan to do it compared to the previous version of the design document they have now included what tool and framework they plan to work on the design document look complete and understandable now
+0 yes i think the design included all functionality
+1 the design incorporates all the required functionality the team could have added use case or crc card to help convey which part of code they plan to change and how overall the team conveys their objective
+1 the proposed change section of the wikipedia clearly mention the column name the team would implement sort on but how they want to implement the sort could be explained a little more in detail they mention they would use tablesorter jquery but i would suggest to add some sort of a pseudocode that would explain better how exactly doe the sorting work
+1 few more test case can be added
+0 drastic improvement have been made to design doc
+0 yes the diagram clearly illustrate the proposed flow different diagram are provided for different issue one of the best wikis i have seen
+1 the author ha not yet presented how the work is going to be done a work on the project might not have started yet
+0 uml diagram are well formed flow chart are easy to understand look like the team ha thoroughly understood the problem statement
+1 a for the design proposed by the author it prof to be a redundant check since there is a minimal amount of design aspect in their doc sure they have defined an application flow but that is all there is to it nothing about adding a method to any class ha been suggested only a simple formula for composite score ha been written the design hasnt been implemented to the depth to make it a code let alone make it smelly nothing mentioned about the design to make it complicated and the piece of code which they would delve into to ascertain of any preexisting gem for simplification this too is hard to reach a conclusion on since not enough detail to answer it with certainty yes absolutely a much more thorough investigation should be carried out and relevant previous work exploration with help solve the cause
+0 yes the document cover very required functionality
+1 the author have given sufficiently good explanation for the change to be made to the system they have explained which file they will change a well a the flow of the projectone thing that they have failed to mention is what api are they planning to use i would like to know that a that would be a key piece of information for this document completeness
+0 have covered almost all the issue it would have been better if an implementation plan wa provided
+0 excellent use of screenshots made thing very clear for me
+0 the design document state all the required thing right from project design to test plan file that will be changed along with how functionality will workflow are included in the doc clearly suggestion great work no suggestion required
+1 no testing plan or test are specified
+1 test plan is specified but uml is missing they have added the er diagram though which i dont think is required here
+0 the design is sound it completely follows the instruction it also ha detailed implemenation plan in each step i think it follows the dry principle because it us existing implementation fully understood the existing implementation and added the function above i think it should also follow the factory pattern although not shown in the design doc
+0 the team ha done tremendous job in adding visualization aid they have added application flow diagram for every actor along with the uml diagram of the student and instructor they have also included screenshots to explain the code functionality implementation of enabling self review and score page this make the document descriptive and very easy to read and understand
+1 a for the design proposed by the author it prof to be a redundant check since there is a minimal amount of design aspect in their doc they havent even defined an application flow nothing about adding a method to any class ha been suggested a per them most important thing are going to be given in the final doc design
+1 the explanation is quite well documented such a including the flow chart kind of bar graph they would prefer and the file that they will update adding of screenshots of the flow of the website would make it more easy to understand for a leyman
+0 well designed
+0 change thats need to be made ha been explained correctly
+1 the diagram seems to be good for most of the part one can understand the project by looking at the diagram itself however in one of the instructor flow diagram it given that if the instructor status is pending the instructor will set the limit to that doesnt make sense why would the instructor himselfherself set the limit to isnt this the responsibility of the system itself to handle this or at the most the admin suggestion change the yes branch of is pending to loop time or somehow indicate that pending instructor can add only student to an assignment
+0 a per the requirement document test case are not required
+0 drastic improvement have been made to design doc
+0 team have decided to give all detail after final submission a design doc should be available before starting the project i would recommend to provide few detail on project design class involved in the project or application flow etc
+0 the design is perfectly well depicted in the form of the use case diagram in which the user are student and instructor and the data base is where the action are stored in the database and the retrieved from the same for the case of review information also they have been thorough in pointing out the application flow in the application flow section so a to elucidate the problem statement
+1 the application flow help understands how your design work but maybe you can add more visual aid to help understand your design more easily
+0 yes the author have adaquately explained the change to be made in the system
+0 good design principle are being used for this project
+0 the design document includes proper visualization it included appropriate flow chart and screenshots which made it easier to understand the design document and the project
+1 the design document is comprehensive and detailed however there are several part where the team is not yet sure of what exactly they want to the document miss out on mention which modelcontroller they will be making change to
+0 yes they explained a lot with two step
+1 team ha not proposed any solution for fixing the issue they should add their approach in the documentation
+0 the doc is complete and everything is included very wellwritten
+0 the design appears to be sound following the appropriate principle and pattern
+0 the solution look like it doesnt add any overhead and the doesnt make the code smelly
+0 they have added note explaining the mockup diagram
+0 a the project is based upon making change to the ui of the system thus there is no such specific pattern being followed however the design that they have made available in the form of screenshots appear very much inclined with the functionality that they need to implement
+1 did not find much info on the design
+1 the project purpose and issue are well stated but the project design have not been included
+1 there are no uml diagram a such in the writeuphowever there is a flowchart which somewhat give a clear view how they plan to do the thing
+1 design approach are clearly explained yes the nd approach is the correct approach any design pattern used
+1 project purpose and testing plan are nicely explained in the design doc it would be better if the project design is more elaborateive
+0 the design document is sound and well written
+0 they give the graph of the ui design which is good and explicit
+0 the author ha excellently explained about the change that they would be making by providing the design diagram and the screenshot of the the change that they have incorporated also they have mentioned about their choice of tool which is google chart and why do they prefer so overall a good explanation
+0 yeah i believe it is a simple a possible while choosing the best path for the expertiza project to grow but it still sound like a very ambitious project for group to complete
+0 the team ha provided a flow diagram that help to infer the structural outline of the project the scope of the project can be perceived from the diagram
+0 the design incorporates everything that the project document ha specified about the project no suggestion
+0 yes the project design is meaningful and clear the solution is well laid out
+0 the design appears to be simple and straightforward to implement the team ha also included all the change that will be made to achieve the desired result great work
+0 they team ha done tremendous job in following the test driven approach for the project implementation they have already included the test they are writing for the functionality implementation they have covered the exhaustive scenario for the project in their test their test plan is highly appreciative
+0 yes it is the simplest design and minimal work which is required to resolve the issue it is very clearly explained one can clearly understand the problem statement and the proposed solution for the same the design document is properly structured a well
+0 explained very well
+1 the author have explained the scope of the project pretty well but a i mentioned in the earlier review a whole paragraph on the background of expertiza is not required one or two sentence would have sufficed
+1 the design that the author have proposed are consistent with the code and do not introduce any obvious problem however the design decision for issue and are missing and therefore can not be assessed i would suggest including the discussion of the specific part of the source code that are going to be addressed in this project posting the exact solution is not necessary
+0 the doc seems complete all aspect of the problem statement are covered and test plan is also included a uml diagram may prove to be useful
+0 i can not find any project purpose but they did provide a lot of solution to problem
+0 yup because it only test the ability to change the language
+1 can not find test plan
+0 simple design
+0 the design appears to be simple and is easy to understand
+0 the author have clearly mentioned the change to be made using problem statement and use case diagram
+0 in round one team ha well explained their approach and how are they going to do it in this round they have included detailed information and mock ui it wa easy to relate their approach their test plan is also thorough i think the team would definitely be able to incorporate the new change good job guy
+0 very clear
+0 yes
+0 the explanation are well written and describe the workflow well there could have been a little more detail in the explanation a some of the statement are very high level
+1 the design is likely to increase the response time since api request take time it is essential to implement a system that keep track of these api response and disables this functionality when the api is unresponsive beyond and unreasonable time
+1 complex design
+0 yes i am surprised that they have already finished the project
+0 the design document ha included all the functionality that is required by the project description
+0 i really like the flow graph the helped me understand what you are aiming to do
+0 yes the doc ha use case diagram and screen shot this is very good and eas understanding
+1 their test plan includes a test case for successfully displaying the popup text message a json and displaying suggestion metric for the review segment a block of review a comment box try to include test case where a review message is absent ie the code should not break for empty review segment include a test case where review segment ha a suggestion and test if the output say suggestion present include a negative test case for the the suggestion where a suggestion is not given by the reviewer and test that the output say suggestion absent
+0 proper use of uml to explain the use case and flow chart to explain the workflow ha been done the plan is complete
+0 i think that the author have done a really good job of explaining and covering all the change to be made overall this is the best document i have seen so far
+0 explanation are satisfactory and they they have provided multiple solution for each problem which is good
+1 there are no section titled project purpose project design or testing plan however much of the information required to create those section is provided
+0 everything is explained well and easy to understand
+0 the design is simple and very much in depth and follows the principle
+0 great diagram explains everything
+1 the author ha made a test plan but it is reactive instead of proactive the test plan for the change to be incorporated could be improved a bit further by further consideration about the usage scenario
+0 yes the design document contains all part of the functionality ensuring that nothing is missed out
+1 a through testplan is described i do think test case could be described more efficiently so that it is clear and easy to understand overall look good
+1 the idea to involve instructor because of a requestshour limit may complicate the project another idea would be to update metric with a round robin scheduling of get request
+1 they only present a flow chart it will be better if there is a uml diagram
+0 the test plan is thorough
+1 no implementation proposed in the design document only placeholder need more detail for it
+0 the test are really in depth for each issue the team will be fixing
+1 yes the team ha made a very good testing plan consisting of functional testing which cover almost all of the use case which have been addedmodified however the author could have added code snippet of the same instead of just discussing the proposed plan
+0 yes the design appears to be sound and us appropriate design principle
+0 yes the design is sound and give a proper explanation about how their implementation would behave
+0 yes the design principle incorporated is quite impressive they have thought through the best way to accommodate the change and wrap it up a a good design
+1 test plan are present but have not explained in detail a brief description of the use case with the test plan and rspec would be perfect
+1 flowchart is included in the document but there is no screenshot or mockup screen
+0 flowchart are drawn which describe the flow how the system will work after implementation
+0 they made clear explanation about their task for example their provide picture to show what they need to do
+1 they have mentioned that they will be using rspec framework but have not given what test they will be implementing and hence can not comment if test will be shallow or not
+0 yes the design is a very simple and effective representation of the problem statement and they serve a good representation on how they are working and implemented the change to the review section
+1 the author ha not written any plan about the implementation it only state the problem statement the author need to do more work in the writeup
+1 since no solution ha been proposed yet this couldnt be reviewed
+0 the test comprehensively test the functioning of the system
+1 the test plan doesnt seem to explain how the team intends to test their new implementation it simply give direction for running test
+0 the team have a well written design document and and the author have explained the proposed change well the author have also listed each file they are going to be changed
+0 the design appears to be sound considering the expected outcome of the project and it doesnt seem that it will create any dependency mismatch a well
+1 the uml diagram show the various subclass clearly it would have been better if it had also explained a few attribute method
+0 the wiki page is very explanatory and the author have explained the issue and fix very well
+1 team have decided to give all detail after final submission a design doc should be available before starting the project i would recommend to provide few detail on project design class involved in the project or application flow etc
+1 class diagram are missing class diagram are missing first flow diagram look perfect second need some modification the instructor login flow should not include a step to set the count limit to this should have been done before only you should add a step to perform a check to see if the total student count is crossing the allowed limit if yes then dont add this new student and show some proper error message to the user if no then add the student
+1 design appears to be sound however it is unclear where the nlp algorithm is supposed to go a in will the st iteration use another service to analyze with the button and then a nd iteration will add the local nlp algorithm
+0 very simple and clear
+0 the design includes test planon the testb plan provided it seems like they will test the functionality but nothing mentioned on how they will write
+1 a the design document section is missing i can not review the quality of their proposed design
+0 the team ha done a good job with the uml diagram however in my opinion it would be better if they can add detail for all the class in the diagram
+0 the design proposed is the natural way anyone would go around solving those issue for example creating separate yaml file for different language and then picking up the string from there
+1 the author have divided the design into subtasks which show that they are very clear about their approach a per the problem statement the added functionality seems complete to me suggestion you could include an application flow diagram to elaborate more on how your solution will work
+0 they have discussed clearly what functionality they are going to test to make the project more efficient i think they have made a quite descent research in the testing aspect of the project
+0 the design doe incorporate all of the necessary functionality
+0 very well written document good job team
+0 yes only view file are involving since this topic is about changing the language
+1 the design seems to be sound there are a lot of mention of which file will be modified however a i said in the previous round there is no mention of the layout of the existing database or if the change they will make currently will change the database suggestion team could mention what table are present in the database of the bacui project i believe this will be really helpful since most of the reviewer are working on expertiza project and have no knowledge of bacui project at the very least the team could mention which table the project will be interacting with along with their structure
+0 the author have explained the change in depth and with proper detail
+1 the author seem to have understood the project and know what change need to be made to what file the change seem to be targeted to the correct class and preliminary investigation reveals that it doe seem to follow dry principle they might want to make their design diagram more simplified which will not only help in making it look readable and also help in implementing the code effectively this will help in reducing convoluted code
+1 yes the change to be made are nicely explain the diagram and screenshots are in place suggestion there wa more scope to the test plan
+0 there are multiple visual element that improve the readability of the document screenshots of the ui table help with the illustration of the required change furthermore the uml diagram demonstrates the relation between relevant flow
+0 only the issuesproblem statement is included in the documentation a of now the tea did mention that they will be adding the detailed design in the upcoming submission
+0 change look good
+0 the design is proper
+0 the provided test are in depth and will test the change made thoroughly
+0 very well written document good job team
+1 the overall quality of the explanation are good but they should include more detail about their design which may not be easy to understand
+0 the design follows the apt principle and pattern in that the refactored version is planned to be implemented using the strategy pattern by working on the eight different report category
+1 the project purpose and issue are well stated but the project design have not been included
+0 refactor functionality from a controller helper into it own controller where that controller will implement the strategy pattern it seems sound to me
+1 the document doe include a test plan section however it just includes what framework they plan to use for testing no solid test planning wa described in the test plan section
+0 yes their design is clear and sound and the principle and pattern are well used
+0 design appears really simple only a couple of added line here and there
+0 yes their design ha all of the functionality that are required
+0 the design doc is clearly explained follows the right design principle
+0 the author have mentioned including analyze button for sentiment analysis of different part of the comment i think the rationale for this is very good because if they were to send all of the comment at once a input to the api the result would be a mix of the sentiment of all the different comment and would therefore not be accurate also this way i think that the response time of the system would not be affected by a whole lot
+1 cant say a code is not visible
+0 yes the design is quite simple
+0 clearly defined uml
+0 the author have lucidly explained the change that are to be made to the system they show the current state of the system and the expected state which includes a new button to analyze the review content in the segmented text box the author have specified file that they plan to modify namely the view file responsehtmlerb and a partial selfreviewhtmlerb the team clearly show the format of the response popup with suggestion metric that capture sentiment score sentiment tone whether suggestion are present or not chance of suggestion volume of text and the volume of text without stop word they also propose to improve the response time of extracting the output from the apione suggestion is that the team could have touched upon the working of the suggestion detection algorithm though it is not part of their current implementation they do mention that it is a black box and have included a link to the deployed nlp project for suggestion algorithm where user can test the suggestion metric
+1 no diagram or table were provided however adding those picture wa a good idea
+0 yes the design principle incorporated is quite impressive they have thought through the best way to accommodate the change and wrap it up a a good design
+0 the team ha done a good job with the uml diagram they have also added detail to the class diagram a wa suggested in the last review
+0 yes they have provided an uml diagram which follows convention and explains their approach
+1 there are no diagram present it would have been great if a screenshot of a test case or flow diagram wa given
+1 no detail of the proposed design
+0 the team ha added good number of mock uis and uml diagram and clearly explains the code follow all of them are selfexplanatory and need no improvement
+1 yes the author have specified the change that have already been implemented a a part of the os project and the proposed set of change that are to be implemented a a part of the final project detailed information on the change already made is available a a wiki link to the previous document this document clearly capture the implementation of the offscreencanvas webidl and rust file the design document attached in this round encompasses the proposed design of implementation of the offscreencanvasrenderingcontextd and enabling of the blob api for testing the code the author have also listed the file changed and to be changed making it easier for the reviewer to keep track of the code on github though the text is lucid lack of a visual tool like flow chart table or uml diagram to concisely illustrate the workflow might make it difficult for new reader to follow the functionality proposed and the interlinking of various module so one suggestion at this point is that t
+0 the design document is well explained the author havent mentioned any design pattern a such the author have clearly stated the proposed change though they could have added uml and crc card
+0 a far a the issue are concerned the solution do seem logical
+0 there are no diagram present it would have been great if a screenshot of a test case or flow diagram wa given
+0 the design is sound with appropriate principle and pattern
+1 clearly defined bug and problem statement but no implementation detail given so it is hard to judge this criterion
+1 there is a test plan for part one of the problem state however no implementation plan or test plan for part two
+1 yes the github api integration look good the only part missing wa perhaps they could have documented the rest call that they are going to make in the document a well usage of existing gem is good and eas lot of implementation pain
+1 from what i can gather nothing sound too complicated individually but the practice of a workflow across multiple page can become very cumbersome and complex i dont see any detail on how this team plan to mitigate those issue
+1 a mentioned above the flow diagram should be completely modified
+1 no uml diagram
+1 design is fine some minor error like no stop phasemoreover no design pattern used just flowchart are providedif some sequence diagram or use case diagram were provided it would improve the design a lot
+1 organization of the document is missing it quote a problem statement present a flowchart and state a pair of objectivesolutions yet again from this write up i could understand that theyre trying to do thing log the time that each review take by improving an earlier project autosave review and merge data of detail page on report page i can not find these clearly separated
+0 the design appears to be simple given the task at hand
+1 manual test plan a of now the team is planning to add rspecs after implementation
+0 i really loved the way that the author have provided a detailed proposed plan section making it very clear about the change that are required to be made in order to tackle the given problem statement
+0 all proposed change seem to be in line with good coding practice and the expertiza system guideline
+1 they have test plan section but too few test case
+1 the design is simple they are adding an external jquery library to achieve the intended sorting functionality and will be adding custom j to achieve further functionality a indicated earlier not clear a to this custom j will be included in multiple page
+0 the doc clearly explains the agenda of the whole project seems like the team still need time to understand and devise a plan to tackle the issue identified
+0 the proposed design is easy to understand and explained properly with the help of appropriate screenshots of the view
+1 actually they talked a little about previous work from e project and a lot about what they gon na do but it better to have some contrast
+0 yes the design is sound and give a proper explanation about how their implementation would behave
+0 the use of jquery plugin sound simple and easy to use
+1 a mentioned above the design part is pretty weak for a writeup and need to be further worked upon
+0 for the bug which have explanation the proposed fix and explanation of the problem are sound id like more info on bug and a they only have the flow
+0 yes since the previous round of review i can see significant and positive progress
+0 the uml diagram clearly descibes the design of the solution the screenshots explain change required in the system adequately
+0 the design give a proper explanation of the behavior of the systemfunctionality
+1 the team have an image of what they plan to implement the team however havenot used any helpful visualization like uml diagram that would aid in the understanding
+1 the mock uis are well thought of and make navigation easier a couple of suggestion can add another mock ui showing the drop down some type of report may not exist if the drop down option are hardcoded selecting an option might lead to a page with no content this might be an existing issue i suspect for every option you could query for existence of at least one record before putting that option in the drop down
+1 design is fine some minor error like no stop phasemoreover no design pattern used just flowchart are providedif some sequence diagram or use case diagram were provided it would improve the design a lot
+1 the visuals used are excellent but it would have been nice to not overwhelm the reader
+0 yes very clearly writeup
+1 the problem are described very nicely when it come to change to be made file to be modified are given i feel more explanation need to be given with respect to change in these file for each problem stating why this file need to be changed and what the impact will be
+1 since the graph will be constructed dynamically for the entire class a whole the impact on response time need to be considered in case there are a large number of entry to process a this could involve database call
+1 the author have taken effort to identify the right place for making the identified change it seems that they have already done some change suggestion i feel that the proposed change on a high level you might want to go a level deeper to explain what will your change be like you might also consider adding use case for your change
+0 undoubtedly i like their color coding approach it something very simple and apt for the current system
+0 the team ha mentioned all the file that will be changed and have also written a paragraph stating what are the proposed change the team could also document the change that are being made to individual code file stating the change done using code snippet and the reason why the change are being made also they can talk about what design pattern principle are being used to incorporate the functionality that is being proposed the team could also use crc card to depict the proposed code change this will not only help reader understand the report better but also help the team in dividing work between the team member and fast tracking the completion of project
+0 yes it is complete
+1 test are given at a very high level and need to be described properly
+1 the document is wellwritten they have described the plan of action along with the different route they would need to explore in order to complete the task at hand they also gem that can be used and api to query if gem were not allowed they have a section called the testing plan however that doesnt look like a traditional testing plan it just show the navigation path that different user would take
+0 test plan walk through necessary functionality
+1 the team have done a good job explaining their project but i feel the team should have detailed their explanation of the implementation more also the test case should have been included in more detail
+0 yes this team ha made the best use of visualization tool that can be applied to their project they have clearly shown wireframes of the current response page juxtaposed with the expected state with the analyze button next to each rubric the document also includes the flow of the project represented a uml diagram once the analyze button is clicked the request text is sent to the suggestion detection algorithm the api return the response which contains the suggestion metric like sentiment score sentiment tone presence of suggestion chance of suggestion total volume of text and volume of text without stop word
+0 the design look good all the issue are stated and addressed nicely
+1 the author ha not yet presented how the work is going to be done a work on the project might not have started yet
+1 please add more detail about the solution how to code for that functionality is yet to be thought of
+0 it incorporates all the functionalites
+0 yes the author ha made a great attempt to explain the change by trying to explain the change required with the help of the application flow diagram and the use case diagram and how the change were implemented by giving screenshots of the change
+1 there were no such solution listed on the basis of which i could suggest some better solution a couple of test case or issue resolution would have been handful for further suggestion
+0 the team ha mentioned properly what change they are doing and how they will be doing them in the first submission they had suggested the possible approach now they are having a concrete way they are implementing these change
+1 the problem are described very nicely when it come to change to be made file to be modified are given i feel more explanation need to be given with respect to change in these file for each problem stating why this file need to be changed and what the impact will be
+0 not show which method
+0 visual aid are present which perfectly help u explain the plan author have proposed
+1 there are mockups of the end result but there are no other uml diagram there should have been some uml diagram to help explain their design better a well a the flow of the implementation
+1 no visuals at all
+0 the design document includes all the functionality the team is hoping to achieve they have explained clearly what they plan to work and modify
+0 yes simple straightforward solution
+0 very well written document good job team
+1 test can be made more exhaustive for now it look like only the view will be tested but controller should be tested a well
+1 the team ha included the test plan design but the documentation is missing on the scenario that will be tested after the implementation how the team will be testing it what are the automated test that will be created and also the manual test plan how an end user can test the endto end requirement should also be a part of the design
+0 the author have mentioned including analyze button for sentiment analysis of different part of the comment i think the rationale for this is very good because if they were to send all of the comment at once a input to the api the result would be a mix of the sentiment of all the different comment and would therefore not be accurate also this way i think that the response time of the system would not be affected by a whole lot
+0 a brief description for the class level implementation would be better
+0 the author talk about adding the tablesorter class to the html table and using javascript script for further action there are no apparent problem with this strategy however i would suggest for the team to elaborate and provide more detail on the implementation for example it is not possible to understand what the javascript part will look like how many function will be used or how they will interact with html
+0 yes the issue and the proposed solution are clearly written
+1 a mentioned no design diagram are present
+0 yes the design incorporates all of the functionality required and also give the possible solution
+0 yes the design is very simple lucid and efficient
+0 flowchart are drawn which describe the flow how the system will work after implementation
+1 yes they did include the test plan but it not enough if just including file
+1 the team ha well explained what are they going to change though i didnt get how are they going to do the proposed change since they are going to introduce a new feature they have focussed more on explaining how to use the new feature
+1 a such the project description doe not ask for any visualization but visualization in term of uml diagram or a crc card would have been a helpful way to make the description better
+0 the author ha explained extensively about the change to be made to the system
+0 the test plan is designed efficiently they have described the ui test and automated test which cover most of the case
+0 the sample data visualization is good the way they have given visualization for sample data is nice easier to understand and good
+0 yes
+0 yes they have been thorough in their approach and this ha been a project implemented to perfection they have not only given proper uml diagram and the like but they are yet to implement the code and showcase in the uml diagram for review section
+0 author have clearly explained the change to be made to the system the design document wa easy to understand
+1 the visualization includes a screen mockup analyze button which will implement the algorithm and produce the output however there is no mockup of the screen of what will the output be like the flow diagram is highly redundant according to me a it doe not portray any additional information about the design i would suggest them to provide a sequence diagram of the algorithm method so a to illustrate their change
+1 there were mockups of how the analyze button would be displayed along side each rubric however there is no mockup for how the response would be displayedsuggestions i would like to see where and how would that response be displayed because from the flow diagram the response seems to be quite big i would like to also know if the team is planing to display all the component of the response from the api or just a few
+1 the use of flowchart describe the functioning of the project exceptionally suggestion including screen mockups to your doc will add more weight to it
+1 no new visualization were added for the fourth part of the project
+0 they have improved the document to provide a better description of change to be made to the system
+0 their design is much simple and clear also easy to understand
+0 the design seems to be very simple i think the team ha avoided unnecessary complication and are doing minimal change to existing system to solve issue given to them
+1 there is nothing wrong in current design look good suggestion however since i have already worked on a similar assignment so i know that similar issue ha already been resolved for drop topic deadline you can reuse the entire code and just change deadline type have a look at os project topic check with the professor once
+0 the team ha mentioned properly what change they are doing and how they will be doing them in the first submission they had suggested the possible approach now they are having a concrete way they are implementing these change
+1 the visualization aid used are class diagram for the strategy pattern usecases to explain the test plan the class diagram is very useful to illustrate the approach used by the team and it succeeds in explaining they have made change according to the suggestion provided in the previous review a sequence diagram will help understand the flow of the method from one controller to the other a the design suggests so
+0 yes the design doe sound like the simplest refactoring possible that can move the review mapping controller closer to a single responsibility class
+1 the author provide a list of file that will be modified in the scope of this project and a high level overview of what need to be done the rationale behind using a tablesorter jquery library and defining the code in the script seems reasonable but the team need to discus more detail to further clarity the solution
+1 the team ha well explained the problem statement along with the application flow which make it easier to understand about the project they ha also described the method which discus their proposed implementation however it would be helpful to add more detail on the design approach they have chosen the team ha also proposed a short test plan on a very high level which make sens a this is very early level of the project but it suggested to add more diverse test case to it a it would help in handling all the case during the development of functionality of self review extension
+1 class level detail are missing but i suspect that can be because this is the first phase doc they have mentioned use of existing gem that need investigation
+0 the design look reasonable for me
+1 the usecase diagram is helpful but doe not help much a it just explains what is provided in the approach section more indepth functionality of what each user will do or how will the design flow flow chart would be more helpful
+0 the test plan ha been written in a very good way following the great quality of documentation till the end it cover all the edge case and scenario
+0 the author have included flow diagram wire frame and even real screen mockups they really help improve clarity
+0 screenshots are helpful to understand the flow and their work
+1 the doc is complete except the test plan a test plan would make it complete
+1 need to edit test plan and add more test case
+0 the team ha analysed the existing design principle used in the project and ha appropriately defined the design for the new change which will be made the design look good and easy to implement great work done
+1 yes the functionality required is stated but the idea about how to code for that functionality is yet to be thought of
+1 the author ha not suggested any change a of now
+0 the document clearly mention the requirement of the project with the problem statement
+0 their introduction and problem definition are clearly enough to explained the change
+0 yes theyve included all functionality
+1 a stated above the team ha not explained any design pattern they are following however they have mentioned all the code change they are making for this functionality implementation the code snippet they have included is very useful to understand the exact code change they are making and the file which are getting impacted this would help the future developer to understand the code in a simple manner
+0 the team have showed what they plan to do in the diagram
+0 us uml diagram and image to explain where the change will be made
+0 the proposed implementation design is elaborate and clearly defines what the team plan on doing
+0 the design make use of the google chart tool to generate visual chart for specific criterion set based on the design flow it appears that the functionality can be consistently performed to generate the visual graph for the instructor
+1 no test
+0 yes very well explained
+1 the document specifies the problem statement and the analyze functionality they want to incorporate however the design document seems to be incomplete a they have not talked about the exact identified functionality ie analyze and the design document section is empty suggestion you can talk about method you want to add or existing method you want to modify and how i think that you can remove the expertiza introduction section a mentioned by the professor
+1 implementation detail are missing but the testing plan is ready
+0 the design follows the basic functionality expected by proposing a bar graph solution for the select criterion it could incorporate the rubric that the team are planning to target the flow in general doe help to understand the project
+1 yeah i believe it is a simple a possible while choosing the best path for the expertiza project to grow but it still sound like a very ambitious project for group to complete
+0 the visualization is great all the flow diagram and required screenshots are in place a required
+0 the design is properly designed
+1 the team ha discussed their plan using flowchart but they have not used any class diagram
+0 yes adequate amount of detail present
+0 please add more detail about the solution
+1 the team ha an outline of the test plan and the test scenario which they are planning to take care of it would be suggested that the team take care of all the exhaustive scenario which are related to the functionality they could also add the step wise description of the scenario they have mentioned or the test case they are planning to implement test driven approach make sure our code is exhaustive of all scenario
+1 the author ha mentioned which file have to be changed but no mention ha been made of how they are going to be changed could have expanded a bit more on that aspect
+1 the team ha proposed a prototype where in the code might have some kind of sorting of data i hope the code for this doe not violate the dry principle in any case
+0 great work by the team on uml diagram
+1 i dont think they need any visual aid
+1 yes the design appears to be sound following the appropriate principle and pattern fell the team could have explained in more detail
+0 look like a lot of effort will go into the view
+0 the test plan seems adequate enough to show that they understand what to test
+0 the design change a described seem sound
+1 please add more detail about the solution
+0 yes the design is sound and give a proper explanation about how their implementation would behave
+0 it doe appear to be sound and in sync with the dry principle
+0 the document explains well how the team is planning to approach the refactoring
+0 the design is concise and clear
+0 the wireframes themselves make the project selfexplanatory that being said enough explanation about how the team will tackle the problem statement ha been given thing like what api will be used to achieve the objective ha been mentioned no suggestion
+0 yes theyve decided to do all there is in the scope of the project
+0 they provide picture of their sound wave
+0 at current state the design doc ha project problem project solution and design diagram and each section ha detailed description of the project
+1 no code is mentioned to be checked
+1 they have depicted their working strategy through an er diagram however i would suggest them to include more uml diagram to enhance understandability also the er diagram is somewhat incomplete
+0 change along with the screen mockup are provided
+0 the screenshots posted on the wiki page provide a clear picture of what the team seek to achieve
+0 the document mention the tool of jquery sorting table in fact which api or any sample code that can be referenced to is expected in the document also this project seems to focus on the view part of expertiza so the test plan should be more detailed cover more edge case
+0 all the issue are stated and addressed nicely the design look good
+1 yes screen shot are helpful but the document missing flow control diagram
+0 the change proposed are good and clearly meet the objective of the project
+0 yes the design appears to be sound and us appropriate design principle
+0 no everything is properly described
+1 all part are presented but need little fore explanation in test plan part
+0 the explanation of each of the issue in detail is done very well but it doe seem to be complicated unless file to be modified and solution are read
+0 the document explains where the change will be made and also give screenshots of the appropriate view
+1 the author have added the method in the right class the new design is properly refactored and the gem are relevantly used the new design might potentially increase the response time of the system because of advanced search option
+1 wireframes have been given stating what the end product will look like but i did not find any uml diagram or table suggestion the team could have mentioned use case diagram or a flow chart explaining the flow of the functionality
+1 the author have worked well since the last review and incorporated some of the suggestion they have now finalized the input and output format however i still am unsure about the algorithm implementation they have proposed they have kept it a a black box which make the design quite inadequate it becomes difficult to review if their method class are in the right direction or need any modification they should have at least given a high level overview of the algorithm also i have observed that the additional comment box also contains valuable suggestion many of the time please mention if you have considered the additional comment box in your analyze functionality
+0 no visual aid in the design document
+0 yes i think the document includes everything a expected
+0 the visualization clearly and effectively conveys the translation capability which the project proposes to provide to expertiza
+1 yes they did include the test plan but it not enough if just including file
+0 the design is really crisp and easy to understand one can clearly understand the problem statement and the proposed solution for the same the design document is properly structured a well
+1 design is fine some minor error like no stop phasemoreover no design pattern used just flowchart are providedif some sequence diagram or use case diagram were provided it would improve the design a lot
+1 yes the design incorporated all functionality required but more explanation is needed around which graph they intend to show
+1 the design doc explains the project in detail i would suggest that the description could be modified by removing redundancy to make the doc more succinct also what mvc file are being touched could have been mentioned
+0 the design make use of the google chart tool to generate visual chart for specific criterion set based on the design flow it appears that the functionality can be consistently performed to generate the visual graph for the instructor
+0 yes it follows appropriate principle
+0 the uml diagram show the various subclass clearly it would have been better if it had also explained a few attribute method
+0 design is good
+0 yes
+0 no class diagram but there is er diagram and table for database it look a little complex but give the idea of what is involving
+1 yes they included some design principle which is good maybe the author could add some design pattern into wiki
+1 the uml diagram are missing but they are compensated by suitable explanation i could follow it very easily
+0 yep they have good structure to show what and how they gon na do with the project
+1 no test plan provided
+1 flowchart are simple to understand but no design pattern usedsome supporting class diagram or sequence diagram would be helpful
+0 yes the design is simple and clear the task is to integrate a web service which return a result in json format
+0 incorporates intended functionality
+0 the visual aid have been well put together
+0 the design appears to be neat
+0 the document show the flow of work really wellhowever i would like to suggest to put more of test planning and the tool and technology that will be used this will enhance the quality of the document to a great extent
+1 the design related information is missing the team ha mentioned the problem statement and application flow they need to add uml diagram and in the first stage at least the proposed change are expected
+0 the design incorporates most of the functionality required it would be nice to have a design diagram
+0 yes the design is simple and easy to understand i can easily know what they will do through their doc
+0 proper use of uml to explain the use case and flow chart to explain the workflow ha been done the plan is complete
+1 no implementation detail given so can not say how they
+0 all the feature are mentioned in the design document it explains the background and the approach that they are going to take to create the view aggregating all the information
+1 no diagram present to explain behaviour design
+0 the design incorporates all of the functionality required
+1 a mentioned design are well depicted and no mock ui can be found but at this stage ui is not a priority for the project
+0 the change are much that is required just some calculated approach of the score which the author ha mentioned and seems will be working
+0 very good author have provided all explanation with adequate screen shot and now and after screen
+0 no change ha been done
+1 author ha not proposed any change
+0 the design contains all of the functionality that required
+1 keeping the suggestion detection algorithm a a black box a stated in the design document i will comment on the input and output to the algorithm the input will be a text block of the review comment to the algorithm and the output is consisting of different field such a sentiment score sentiment analysis a positivenegative suggestion a present or absent however it is unclear to me a to what basis the suggestion detection algorithm detailsexplanationhigh level overview do you classify the data into suggestion classifier
+1 the team ha a well composed design document they have structured there design document into well written sub part like design purpose and visualization and file to be changed they could have written there testing plan in a more elaborate manner by mentioning what kind of testing frame work will be used and what functionality will be tested the could have also added some use case
+0 yes the design try to cover all the requested feature
+0 all necessary section are present
+0 two graph provided provide a good understanding of the process and what expected visualization should be more diagram would have been helpful
+0 the change that the author ha proposed is quite inclined with the task that are expected to be completed the author explains the the change properly by mentioning the file that need to updated along with the screenshots of the flow
+1 did not find any diagram in the wiki
+1 functionality feature test ha been included but plan for rspec test is yet to be included
+0 the change are much that is required just some calculated approach of the score which the author ha mentioned and seems will be working
+0 the design proposed is the natural way anyone would go around solving those issue for example creating separate yaml file for different language and then picking up the string from there
+0 the design document incorporated all the functionality that the project is supposed to be implementing no suggestion
+0 yes the author do have an adequate explanation
+1 no implementation detail given so can not say how they
+1 proposed change are well explanatory but every function change is in signupsheet controller whereas there are many reference present in a few model and other controller a well
+0 the explanation provided is on point to the requirement of the project all the step piece up the project completely
+0 the design doc includes the test plan which cover all the change that will be made
+1 i do not think that the design will increase the response time of the system suggestion i did not find any detail regarding about any method that will be used to implement the functionality that would have been useful the test plan doe mention viewsuggestionmetricsforreviewsegment though if this is the method name then it doe not follow snake casing
+0 the solution seems right
+1 yes all the requirement mentioned in the problem statement are considered also the corresponding solution are explained a flow diagram or screenshots explaining the solution jsut like the problem statement is explained would have been helpful
+0 the design is simple and very much in depth and follows the principle
+0 yes well designed document ui mockups given it is structured
+1 the document show how they will be using the api however since it is initial they have not clearly mentioned the functionality required
+0 yes their doc ha adequately explained the change
+0 this couldnt be reviewed a the design doc is incomplete
+0 the design incorporates all the functionality required suggestion including screenshots or screenmockups would make the document easier to understand
+0 yes it cover everything
+1 the design appears to be fairly simple i think however there will be difficulty in implementing the github metric for latest data v data before the submission deadline
+0 change suggested look good
+1 no such thing like uml
+0 yes the team ha well explained the change that they are going to make last time it wa a bit confusing but this time because of the help of the diagram and mock ui screen the solution seems clear now
+1 the explanation given show that they have put thought into their project however in issue solution they are not clear about the path ahead they have vaguely stated that the solution might be complex
+1 the author mention within their uml diagram section that they are making only html change however they have still not explained how the request will be sent no explanation ha been given yet on how the team intends to implement timing the response of the api
+0 their design is much simple and clear also easy to understand
+1 the design related information is missing the team ha mentioned the problem statement and application flow they need to add uml diagram and in the first stage at least the proposed change are expected
+1 there are no section titled project purpose project design or testing plan however much of the information required to create those section is provided
+0 it would be better to add more diagram
+1 the project doe not have any testing involved a such but the author have added a testing plan
+0 the design diagram is good and it would also be helpful to have a few screenshots of the current expertiza view
+1 their task introduction is too short but the background part explain the change very well
+0 two type of testing are listed and the author list all the case they need to test
+0 adequate diagram are given explanation of problem statement done well
+0 yes design appears to be sound
+0 the design seemed good
+1 the issue are addressed thoroughly but probablty the issue on staggered deadline need to be handled carefully the solution might cause other code effect need to cover all the individual involved
+0 yes the approach is explained in detail
+0 the team is using external tool to do the work and it clear and easy
+1 the explanation of how the received data will be storedpresented is something i would suggest the team to add the design document also miss out on where the data will be presented in the view
+0 the uml diagram included here is a flow chart diagram which explains the process of how the instructor will be able to see the visualization and is easy to understand the flow
+1 the change are not yet proposed
+0 yes
+1 a there are ui change test plan is not required but a basic stepwise description of how to see the required output can be helpful
+0 the team ha included a lot of visual aid which complement the document making it a lot easier to understand great work with the ui mockups project design uml diagram
+0 i understand what the team is supposed to do to the expertiza system
+0 the design appears to be clear and the team ha also implemented functionality to their project it show that the team ha organized and implemented the design well
+0 yes their visualization is good they are clear and well described the change
+1 all part are presented but need little fore explanation in test plan part
+0 the document wa very well written previously too and they have improved it with diagram and test nice work
+1 the project purpose and issue are well stated but the project design have not been included
+1 the placement of the document could be changed to make it more readable and the flow of the document to be proper for example the objective should be shifted above the database schema they have also not included the test case
+0 they have covered all the test plan along with detailed step
+0 the team ha provided a flow diagram that help to infer the structural outline of the project the scope of the project can be perceived from the diagram
+0 very good author have provided all explanation with adequate screen shot and now and after screen
+1 seems like all part of the design document need more detail
+0 the design implement all the defined functionality elaborately
+1 yes almost everything seems perfect only a little more explaination is required
+0 the author have clearly explained the change to be made to the system they also have given the file to be modifiedadded for each change
+1 the document is simple to read and ha the detail mentioned for the the project purpose the design of their implementation but they havent included the test plan
+1 the design appears to be perfect for now except for the flow diagram
+0 yes design involves google chart api and seems very simple
+0 the team ha not addressed the project design approach and the proposed implementation detail in the documentation
+1 organization of the document is missing it quote a problem statement present a flowchart and state a pair of objectivesolutions yet again from this write up i could understand that theyre trying to do thing log the time that each review take by improving an earlier project autosave review and merge data of detail page on report page i can not find these clearly separated
+1 they have mentioned that they will be using rspec framework but have not given what test they will be implementing and hence can not comment if test will be shallow or not
+0 the design is apt following the principle and are selfexplanatory
+0 the flowchart used are very good and do a great job of conveying the intended purpose of each solution presented
+0 change thats need to be made ha been explained correctly
+0 yes test plan are included
+1 no test plan provided
+0 they have also added the uml diagram which make thing a lot more clearer
+0 diagram is added
+0 yes most of the functionality are included besides they also got detailed explanation
+0 they have improved the document to provide a better description of change to be made to the system
+1 the design incorporates most of the functionality but it would be better if the actual design is discussed more clearly
+1 no uml diagram
+1 reference section missing
+0 yes the uml diagram sufficiently provide visualization
+0 the chart is also in a great detail
+0 the design document incorporated all the functionality that the project is supposed to be implementing no suggestion
+0 yes the author ha provided a sufficient explanation of what change need to be done to the system by giving flow diagram and screenshots about what change they are going to incorporate in their system
+0 the document seems to be generally welldesigned however i believe that they have glossed over how a link is said to be closed they properly described the additional functionality and the challenge they will likely face
+0 yes the design doe sound like the simplest refactoring possible that can move the review mapping controller closer to a single responsibility class
+1 the author have explained about their change neatly including previous suggestion they have added detailed description about tablesorter which they plan to implement the tablesorter is used to sort data for multiple field for a table using multitbody sorting they plan to use it in the grade and reviewmapping view they do not plan to implement in their dropdown but display the sorted data itself on loading the page the change look more clear to me a they have been able to implement the change in the table view using multitbody sorting for submission table i think that introduction to expertiza is highly unnecessary and should be removed
+0 very good use of class and sequence diagram to explain the entire design flow it clearly conveys the thought process of author and the overall design
+0 the team ha suggested reasonable change to address the problem statement and ha given explanation for each solution they have proposed for the implementation
+0 well structured i think everything is covered
+0 yes the requirement are simple and the design plan clearly explains all the point
+0 the design look simple and clear
+0 they team ha done awesome work in representing every detail possible in the flow diagram they have created uml diagram which depicts the flow of the admin and student along with other actor a mentioned earlier they have also represented the admin flow diagram and instructor flow diagram through the flow chart which make it very easy for end user to understand the workflow of the requirement in the expertiza system
+0 no class diagram but there is er diagram and table for database it look a little complex but give the idea of what is involving
+1 the team ha well explained the problem statement along with the application flow which make it easier to understand about the project they ha also described the method which discus their proposed implementation however it would be helpful to add more detail on the design approach they have chosen the team ha also proposed a short test plan on a very high level which make sens a this is very early level of the project but it suggested to add more diverse test case to it a it would help in handling all the case during the development of functionality of self review extension
+0 yes they did
+1 the author seems not sure about exactly what solution they need to use problem except that everything is clear
+0 clean flow chart
+1 the author have provided a mock up screen of the proposed solution which clarifies how their solution will look like however the use of visual aid seems to be inadequate since they have not added any class diagram usecase or sequence diagram to elaborate their solution in depth suggestion you might want to add a diagram for your proposed design pattern a suggested above to improvise your writeup
+1 the team ha included test plan in connextra format by including the feature specification and two scenario one happy path and one to capture the edge case of response generated with no text no more test case can be added to check if the team part in the project is implemented well some test case scenario that check the efficiency of the suggestion detection algorithm for example to detect review response that generate the generalized suggestion for all the project can be included
+1 a stated above all the reference need to be checked a signup sheet controller is populating the database and every field should be available to maintain consistency
+0 yes their explanation are adequately explained the change
+0 yes the uml diagram sufficiently provide visualization
+1 both the problem and proposed change are clearly detailed my only suggestion is to put the description of the issue being solved in the same location a the solution to it otherwise one ha to scroll around the page to figure out which problem is being fixed
+1 similar to my earlier comment i found this document lacking on detail i also dont think their explanation for deriving the score to be sufficient their explanation is expressed a code not a a mathematical equation
+1 the design seems to be sound there are a lot of mention of which file will be modified however a i said in the previous round there is no mention of the layout of the existing database or if the change they will make currently will change the database suggestion team could mention what table are present in the database of the bacui project i believe this will be really helpful since most of the reviewer are working on expertiza project and have no knowledge of bacui project at the very least the team could mention which table the project will be interacting with along with their structure
+0 yes excellent work done by the team the design document adequately explains what is the problem that they are trying to solve what is the proposed solution and how the solution would look like there are enough detail to in the document to understand what is being done and what change are proposed the document also ha enough illustration on what is the current situation
+0 brilliantly written code document consisting of background problem statement and the implementation plan
+0 the change are very well documented for each issue what are the file that need to be changed is mentioned appropriately the overall design look efficient and avoids any duplication good job
+0 the quality of explanation is good and adequate
+0 the flowchart included in the design document clearly explain the change that need to be done
+0 yes one of the best design doc of project
+1 test plan is not present
+0 the test plan is not yet done rest i could see that the document is very much complete
+1 could have added uml diagram lofi sketch and flowchart
+0 the design look good enough it mostly deal with htmlerb file to accommodate the graph and some database filtering in the controllersi do not think that the design will increase the response time of the system suggestion if the detail regarding how the graph will be implemented or any gem will be used should have been given i did not find any detail regarding about any method that will be used to implement the functionality that too would have been useful
+0 the team ha mentioned the problem statement and it importance by giving an example of how it save the time of instructor
+1 the author have done good job explaining the change to be made to the system and even explaining why other more obvious option are not chosen it still sound like a complicated change to make to the system
+0 it would be better to add more diagram
+0 the design look good the code is already committed and approved by the concerned team good job
+1 the author ha not written any plan about the implementation it only state the problem statement the author need to do more work in the writeup
+0 great documentation tbh the best i have seen yet
+0 yes their design ha all of the functionality that are required
+1 no diagram present
+0 according to the team the specification of the project doe not require u to use automated test but they plan to test the modified ruby code or the new feature using the rspec testing framework overall the test plan sound good
+0 the project involves refactoring of the review mapping controller and the author have proposed a clear action plan they have added a bvery detailed testing plan and also a detailed uml diagram the author have updated their uml diagram and also updated their testing plan after the first submission
+1 nothing specified
+1 no uml diagram
+1 cant say in what file theyll make change a it not specified in the document you can add what change youll be making and explain a little more for better understanding
+0 yes have followed all se practice in design document
+0 the explanation of each of the issue in detail is done very well but it doe seem to be complicated unless file to be modified and solution are read
+0 yes the test plan look good the author list all the case they need to test
+1 actual project work ha not been started yet so code modification have not been mentioned yet but the file to be changed seem appropriate for the project objective
+0 this team consistently us great diagram that add to their documentation clarity significantly
+0 yes the author have clearly explained the change to be made to the system document is simple succinct and easy to understand great use of flow chart uml diagram and mockups to visually represent the information is done
+0 i dont see any issue in the design document they have followed a good design principle
+1 the author have explained about their change neatly including previous suggestion they have added detailed description about tablesorter which they plan to implement the tablesorter is used to sort data for multiple field for a table using multitbody sorting they plan to use it in the grade and reviewmapping view they do not plan to implement in their dropdown but display the sorted data itself on loading the page the change look more clear to me a they have been able to implement the change in the table view using multitbody sorting for submission table i think that introduction to expertiza is highly unnecessary and should be removed
+1 only the issuesproblem statement is included in the documentation a of now the tea did mention that they will be adding the detailed design in the upcoming submission
+1 yes the author have nicely explained the change to be made this includes the flow diagram uml diagram and many of the screenshots good work team suggestion could include screenshots if any of the test plan implemented
+0 a far a the issue are concerned the solution do seem logical
+0 the design is perfectly well depicted in the form of the use case diagram in which the user are student and instructor and the data base is where the action are stored in the database and the retrieved from the same for the case of review information also they have been thorough in pointing out the application flow in the application flow section so a to elucidate the problem statement
+1 yes the author ha explained the adequately the change to be made to the system by giving a detailed flow diagram of the workflow of the the would be implementing the functionality of keeping a track of the review time of a student
+1 the design seems pretty good but the solution are a little bit unspecific it would be better if there are more explanation about how to implement the solution so that the review can give you more feedback
+0 yes i am surprised that they have already finished the project
+0 yes they look well written and easy to follow with all the visual aid
+1 overall work is done good but explanation are bit lengthy and somewhat hard to follow ther is no need to mention the existing codewhich simplymmakes the documentation lengthier
+0 the design appears to be sound they have weighed their option and are using an official gem to interact with the github api
+1 the picture clearly demonstrate the change being made to the system although it is apparent where the change would be visible it would be nice if a image wa posted having the current expertiza deployement to show where the change would be visible
+0 document is explained well also the flow of document is good team can add screenshots of existing document also some diagram to explain the solution well
+0 the author have given adequate explanation in term of the following what is existing currently what need to be changed the have also explained with a diagram the exact place where they would be adding element to the ui also the file required to be changed are also mentioned
+1 there are not enough information to help me understand what the design look like
+0 yes they have been thorough in their approach and this ha been a project implemented to perfection they have not only given proper uml diagram and the like but they have also implemented the code and showcased in the test plan and the proposed design section
+0 the design incorporates all the primary functionality however adding a uml diagram would make it much better
+1 a mentioned no design diagram are present
+0 a the project is in the initial stage there is no technical descriptionhowever i see from the document that their thought process is on the right track
+1 no visual aid present in the doc but they have given a link which provides visual help
+1 the author have made it clear by including mockup screen of the proposed solution they have used class uml diagram for the newly identified subclass and hence i think that they have made adequate use of visual aid suggestion they can add use case for the new feature
+1 the uml diagram are detailed and explained well suggestion the application flow could be explained in point so that the reviewer ha a clearer view of what is the sequence of event occurring
+0 the document is complete and very clear
+1 more explanation on how to proceed with the implementation could have been added could have also added technology to be used
+1 could use more detail
+1 need more detail of design to show any future suggestion
+1 the current explanation talk only about change in the view it would be better if the solution is explained at greater depth
+0 the functionality scope is restricted because of the topic but the design doc cover everything what all is required to be done in the project
+0 the team ha communicated their design clearly via usecase diagram and a class diagram with a description of various database table involved
+0 the team ha adequately explained all of the change required for segregation including the exact report and function to be removed out of reviewmappingcontrollerrb along with the design pattern to be followedstrategy in this case
+1 the team ha well explained what are they going to change though i didnt get how are they going to do the proposed change since they are going to introduce a new feature they have focussed more on explaining how to use the new feature
+0 yes
+1 there are no uml diagram i would suggest them to include a test case diagram that can improve understandability
+1 the screenshots for the view are great they help in understanding the problem statement and the solution however the design document lack use case or class diagram on how extenral entity interacts with the system and get response since the author are using external apis it would have been good if they could give more detail request and response
+0 yes the design appears to be a simple a possible the team ha mentioned what need to be done and how they plan to implement it
+0 yes the author ha explained the adequately the change to be made to the system by giving a detailed flow diagram of the workflow of the the would be implementing the functionality of keeping a track of the review time of a student
+0 all the requirement have been covered
+0 the design follows a clear approach to the functionality avoiding any uncertain flaw
+1 the overall quality of explanation is precise and clear isssue and the test plan can be addressed in more detail how the testing will be performed must be addressed
+0 i think that the author have done a really good job of explaining and covering all the change to be made overall this is the best document i have seen so far
+1 the design incorporates and clearly explains flow of diagram for class performance but not much is included for integration of review performance suggestion the topic of integration of review performance can be talked about in brief
+0 the change are well explained with the help of use case uml diagram screen shot of the web page and prototype of the view well done
+0 clearly explained with diagram and uml diagram
+1 clearly defined bug and problem statement but no implementation detail given so it is hard to judge this criterion
+0 the er diagram is very well done it encompasses all the class and their attribute also the use of different shape like diamond square etc is great
+1 the author ha not written any plan about the implementation it only state the problem statement the author need to do more work in the writeup
+0 yes the proposed change make only required addition
+0 the flow chart is good and aid in understanding better
+1 the diagram follow the convention and are detailed and self explanatory suggestion test plan is not so clear especially the second testcase where it is stated that the date will be changed accordingly what date will be changed and how should be mentioned a similar flowchart will make it very clear a to what you plan to test
+1 the explanation is clear it would be better if the author explain more about the strategy pattern they will use
+0 the document clearly mention the change to be made to the existing system and requirement that need to be delivered also mention the change to be made to the ui the file to be addedmodified are also mentioned
+1 actual project work ha not been started yet so code modification have not been mentioned yet but the file to be changed seem appropriate for the project objective
+0 the documentation done by the team is very detailed and explains the problem statement very clearly they have described the functionality change in bullet point which make it very easy to understand the sub part required to achieve the main functionality in simple term
+0 the project doe not have any testing involved a such but the author have added a testing plan
+1 few more test case can be added
+1 include testing plan if possible
+0 screenshots are helpful to understand the flow
+0 the class diagram is very useful and the mock ui with indication on it make it more useful
+1 the design document is well explained the author havent mentioned any design pattern a such the author have clearly stated the proposed change though they could have added uml and crc card
+1 yes the change are well explained there are a lot of picture snipped screen shot to help explain the change to be made there one issue that the screenshots are not very clear since it big it would look better of the screenshots can be clearer
+0 the team ha presented a detailed explanation of all the topic in the documentation
+0 expectation look attainable the change proposed are concise and crisp team should be able to do a good job with this implementation
+1 test plan is discussed in the write up it could have been supported with some usecases
+1 the team ha very well explained the change they are making in the project to achieve the functionality however they have not included any design explanation explicitly they have not described the approach they have come with it might be helpful if they could add the design approach a well in the wiki link so that it easier to understand the code change by having a glance at the design pattern
+0 yes the author have specified the change to be made in the system under the proposed project design the change have been included a sub heading with sub point under each the author have also included a relevant file heading that includes the file where change are madethe change involve allowing the instructor to change language for a course in the process a separate language column will be added to the course table and a dropdown of language in the edit course page where a language can be chosen once the instructor update the edit course page with the chosen language the static string in the expertiza application will be changed to the chosen language for adding multilanguage support google translate and rail internationalization api is being used also two yaml file enyml and hienyml contains the translated string for the respective language the routesrb file and all the view file will be correspondingly modified to show the different language after reading from the y
+1 the team ha very well explained the change they are making in the project to achieve the functionality however they have not included any design explanation explicitly they have not described the approach they have come with it might be helpful if they could add the design approach a well in the wiki link so that it easier to understand the code change by having a glance at the design pattern
+0 the explanation can be more detailed overall understandable
+0 good work good documentation
+1 there are no section titled project design or project purpose
+1 one flow chart and one chart graph are included i find the chart incomplete and confusing too i wasnt able to relate how this is going to help real scenario the better way would be to use a use case diagram or take example of our current class program
+1 the design explains what all is to be implementedhowever there is no way it show how it is going to be implemented
+1 the design document ha clearly mentioned the problem statement and the subtasks that need to be performed however it look a bit incomplete to me suggestion try adding what were your proposed approach and a clear reasoning a to why did you choose a particular approach you can simply remove the statement on expertiza a the professor ha clearly advised u to avoid doing it
+0 i think the author have incorporated most of the functionality in the design document
+0 the design incorporates all the basic functionality
+0 in a way yes because it copied the project description and illuminated which model they wanted to create in the refactor
+0 the design proposed make some sense a they are backed up with diagram to make them very clear of their approach
+1 the team ha included screenshots of the review ui the first one depicts the existing look and the nd one show that they plan to include a new button that is responsible for analyzing the segmented text corresponding to each rubric where the student ha reviewed and also display a popup message showing the result of suggestion metric like volume sentiment suggestion praise and criticism metric the team ha also shown the user story in connextra format and also described to scenario one happy path and one where no text is typed into the segmented text box input the team could have made the document even more visually palatable with flow char uml diagram for use case or sequence diagram to support the feature and the scenario they plan to implement
+1 have covered almost all the issue it would have been better if an implementation plan wa provided
+0 yes the presence of use case diagram and flow chart explaining the work flow is good it would be nice if there were more uml diagram such a sequence so show various class interaction presence of mockup screen is good that help in understanding what is being implemented it would have been good if the author put in more detail about the validation that that propose in the system
+0 the design doc is complete all the relevant section have been added
+0 the design is simple and well modularized each method is implementing only one task a it should
+0 yes the test plan look good it cover all the functionality
+1 the ui mockups are good im not entirely sure that the uml diagram is effective perhaps a better diagram style would work better
+1 from what i can gather nothing sound too complicated individually but the practice of a workflow across multiple page can become very cumbersome and complex i dont see any detail on how this team plan to mitigate those issue
+0 a concrete test plan is also added and it ha both ui and automated test detail
+0 it is clear and simple
+1 they have test plan section but too few test case
+0 yes
+1 the design doe appear to be sound which involves the rust implementation of the web idl file namely offscreencanvas and offscreencanvascontextd web idl file i look forward to the complete implementation of the project
+0 there are multiple visual element that improve the readability of the document screenshots of the ui table help with the illustration of the required change furthermore the uml diagram demonstrates the relation between relevant flow
+0 the test plan ha been written in a very good way following the great quality of documentation till the end it cover all the edge case and scenario
+0 the test plan is quite good a it cover all the test case in the form of test case which test all the functionality for the admin and the instructor role it also considers the negative test case like throwing an exception when the pending instructor try to add more then student to hisher course
+0 this test plan is simple and easy to follow good job
+0 the design doc is complete and clearly includes all detail about the project
+1 the design document mention nothing about evaluation of how long the api take to return with a json
+0 a concrete test plan is also added and it ha both ui and automated test detail
+1 they have mentioned the method to calculate the composite review but where this method is planned to be added in expertiza is unclear this need to be mentioned
+0 detailed test plan are mentioned in the wiki which probably cover all the case
+1 use case diagram is present but it would have been nice to see a sequence diagram to understand the flow
+1 the team ha very well explained the change they are making in the project to achieve the functionality however they have not included any design explanation explicitly they have not described the approach they have come with it might be helpful if they could add the design approach a well in the wiki link so that it easier to understand the code change by having a glance at the design pattern
+0 yes almost all type of search functionality are covered
+0 yes they have a working test plan in mind and also they have thought of the way in which they are going to test the various edge case for the various issue at hand
+1 more effort should be expended on the designthe current explanation talk only about change in the view it would be better if the solution is explained at greater depth
+0 sound so many diagram
+0 no diagram shown
+0 the test plan is thorough and contains lot of detail that will make it easy to design rspec test in the future
+1 test are given at a very high level and need to be described properly
+1 the team have an image of what they plan to implement the team however havenot used any helpful visualization like uml diagram that would aid in the understanding

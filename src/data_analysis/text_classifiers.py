@@ -27,39 +27,10 @@ from sklearn import svm, datasets
 import operator
 import seaborn as sns
 import pickle
+from analysis_utils import plot_confusion_matrix
 
 ## This function is called by the classifiers to provide a visulization of the results
 class_names = ['False', 'True']
-def plot_confusion_matrix(cm, classes, Y_test,
-                          predictions,
-                          title='Confusion matrix',
-                          cmap=plt.cm.Blues):
-    print("Confusion Matrix:")
-    print(cm)
-
-    plt.clf()
-    plt.imshow(cm, interpolation='nearest', cmap=cmap)
-    plt.title(title)
-    plt.colorbar()
-    tick_marks = np.arange(len(classes))
-    plt.xticks(tick_marks, classes, rotation=45)
-    plt.yticks(tick_marks, classes)
-
-    thresh = cm.max() / 2.
-    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
-        plt.text(j, i, format(cm[i, j],'d'),
-                 horizontalalignment="center",
-                 color="white" if cm[i, j] > thresh else "black")
-
-    plt.ylabel('True label')
-    plt.xlabel('Predicted label')
-    plt.tight_layout()
-    plt.show()
-    print(classification_report(Y_test, predictions, target_names = classes))
-
-#### Setup the google drive connection if needed
-##from google.colab import drive
-##drive.mount('/content/gdrive')
 
 ### Enter filename below:
 file_in = "/content/gdrive/My Drive/Colab Notebooks/various_data/praise/praise_data_multisemester_cleaned.csv"
@@ -122,12 +93,7 @@ cm = confusion_matrix(Y_test, predicted_log)
 print(cm)
 
 ## Graphical visualization
-cnf_matrix = confusion_matrix(Y_test, predicted_log)
-plt.figure()
-plot_confusion_matrix(cnf_matrix, classes=class_names,
-                      Y_test = Y_test, predictions = predicted_log,
-                      title='Confusion matrix')
-
+plot_confusion_matrix(Y_test, predicted_log)
 
 #Gridsearch: Logistic Regression
 
@@ -151,20 +117,10 @@ print(gs_clf_log.best_params_)
 print("Accuracy:", accuracy)
 
 ## Graphical visualization
-cnf_matrix = confusion_matrix(Y_test, predicted_gs)
-plt.figure()
-plot_confusion_matrix(cnf_matrix, classes=class_names,
-                      Y_test = Y_test, predictions = predicted_gs,
-                      title='Confusion matrix')
+plot_confusion_matrix(Y_test, predicted_gs)
 
 ###### Transfer Learning Results ######
-cnf_matrix = confusion_matrix(Y2, gs_clf_log.predict(X2))
-plt.figure()
-plot_confusion_matrix(cnf_matrix, classes=class_names,
-                      Y_test = Y2, predictions = gs_clf_log.predict(X2),
-                      title='Confusion matrix')
-
-
+plot_confusion_matrix(Y2, gs_clf_log.predict(X2))
 
 #### Random Forest
 text_clf_rfc = Pipeline([('vect', CountVectorizer()),
