@@ -1,4 +1,4 @@
-### This fiel provides code for creating a new dataset that is cleaned of missing values,
+### This module provides code for creating a new dataset that is cleaned of missing values,
 ### removes duplicate data observations, and balances the data in terms of label proportion.
 import pandas as pd
 import csv
