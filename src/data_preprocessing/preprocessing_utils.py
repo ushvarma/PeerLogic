@@ -1,5 +1,4 @@
-### This fiel provides code for creating a new dataset that is cleaned of missing values,
-### removes duplicate data observations, and balances the data in terms of label proportion.
+### This module provides helper functions for Data Pre processing.
 import pandas as pd
 import csv
 from bs4 import BeautifulSoup
